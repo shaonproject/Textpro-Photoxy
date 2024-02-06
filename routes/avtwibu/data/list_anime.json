@@ -1,0 +1,5302 @@
+{
+    "listAnime": [
+        {
+            "ID": 0,
+            "name": "Boy 1",
+            "colorBg": "#f8ca3e",
+            "movie": "Boy"
+        },
+        {
+            "ID": 1,
+            "name": "Boy 2",
+            "colorBg": "#9fc177",
+            "movie": "Boy"
+        },
+        {
+            "ID": 2,
+            "name": "Boy 3",
+            "colorBg": "#3f4a8a",
+            "movie": "Boy"
+        },
+        {
+            "ID": 3,
+            "name": "Boy 4",
+            "colorBg": "#e2bc5f",
+            "movie": "Boy"
+        },
+        {
+            "ID": 4,
+            "name": "Boy 5",
+            "colorBg": "#345763",
+            "movie": "Boy"
+        },
+        {
+            "ID": 5,
+            "name": "Boy 6",
+            "colorBg": "#6b54c0",
+            "movie": "Boy"
+        },
+        {
+            "ID": 6,
+            "name": "Boy 7",
+            "colorBg": "#49a8e4",
+            "movie": "Boy"
+        },
+        {
+            "ID": 7,
+            "name": "Boy 8",
+            "colorBg": "#70b1df",
+            "movie": "Boy"
+        },
+        {
+            "ID": 8,
+            "name": "Girl 1",
+            "colorBg": "#8cbcc7",
+            "movie": "Girl"
+        },
+        {
+            "ID": 9,
+            "name": "Girl 2",
+            "colorBg": "#d2c5b4",
+            "movie": "Girl"
+        },
+        {
+            "ID": 10,
+            "name": "Girl 3",
+            "colorBg": "#f7cc6f",
+            "movie": "Girl"
+        },
+        {
+            "ID": 11,
+            "name": "Girl 4",
+            "colorBg": "#3aa3c5",
+            "movie": "Girl"
+        },
+        {
+            "ID": 12,
+            "name": "Kamijou Touma",
+            "colorBg": "#f7ac54",
+            "movie": "Toaru Majutsu No Index"
+        },
+        {
+            "ID": 13,
+            "name": "Index Librorum-Prohibitorum",
+            "colorBg": "#6084e3",
+            "movie": "Toaru Majutsu No Index"
+        },
+        {
+            "ID": 14,
+            "name": "Misaka Mikoto",
+            "colorBg": "#dbb6a6",
+            "movie": "Toaru Majutsu No Index"
+        },
+        {
+            "ID": 15,
+            "name": "Accelerator",
+            "colorBg": "#878787",
+            "movie": "Toaru Majutsu No Index"
+        },
+        {
+            "ID": 16,
+            "name": "Hamazura Shiage",
+            "colorBg": "#c59766",
+            "movie": "Toaru Majutsu No Index"
+        },
+        {
+            "ID": 17,
+            "name": "Saitama",
+            "colorBg": "#e5b646",
+            "movie": "One Punch Man"
+        },
+        {
+            "ID": 18,
+            "name": "Genos",
+            "colorBg": "#f2d04a",
+            "movie": "One Punch Man"
+        },
+        {
+            "ID": 19,
+            "name": "Tatsumaki",
+            "colorBg": "#2d7d48",
+            "movie": "One Punch Man"
+        },
+        {
+            "ID": 20,
+            "name": "Fubuki",
+            "colorBg": "#44756a",
+            "movie": "One Punch Man"
+        },
+        {
+            "ID": 21,
+            "name": "Garou",
+            "colorBg": "#b92020",
+            "movie": "One Punch Man"
+        },
+        {
+            "ID": 22,
+            "name": "Zero two",
+            "colorBg": "#e54d55",
+            "movie": "Darling In The Franxx"
+        },
+        {
+            "ID": 23,
+            "name": "Zero two",
+            "colorBg": "#f890bc",
+            "movie": "Darling In The Franxx"
+        },
+        {
+            "ID": 24,
+            "name": "Zero two",
+            "colorBg": "#ee7998",
+            "movie": "Darling In The Franxx"
+        },
+        {
+            "ID": 25,
+            "name": "Zero two",
+            "colorBg": "#e85f8a",
+            "movie": "Darling In The Franxx"
+        },
+        {
+            "ID": 26,
+            "name": "Zero two",
+            "colorBg": "#eb7381",
+            "movie": "Darling In The Franxx"
+        },
+        {
+            "ID": 27,
+            "name": "Hiro",
+            "colorBg": "#63c5ed",
+            "movie": "Darling In The Franxx"
+        },
+        {
+            "ID": 28,
+            "name": "Ichigo",
+            "colorBg": "#76b1db",
+            "movie": "Darling In The Franxx"
+        },
+        {
+            "ID": 29,
+            "name": "Destiny",
+            "colorBg": "#c33144",
+            "movie": "Takt Op"
+        },
+        {
+            "ID": 30,
+            "name": "Destiny",
+            "colorBg": "#c9465c",
+            "movie": "Takt Op"
+        },
+        {
+            "ID": 31,
+            "name": "Destiny",
+            "colorBg": "#d83e49",
+            "movie": "Takt Op"
+        },
+        {
+            "ID": 32,
+            "name": "TAKT ASAHINA",
+            "colorBg": "#539dd0",
+            "movie": "Takt Op"
+        },
+        {
+            "ID": 33,
+            "name": "Takt Asahina",
+            "colorBg": "#65a2c2",
+            "movie": "Takt Op"
+        },
+        {
+            "ID": 34,
+            "name": "Bloom",
+            "colorBg": "#4ac2c6",
+            "movie": "Winx Club"
+        },
+        {
+            "ID": 35,
+            "name": "Stella",
+            "colorBg": "#f6c756",
+            "movie": "Winx Club"
+        },
+        {
+            "ID": 36,
+            "name": "Flora",
+            "colorBg": "#f19dcd",
+            "movie": "Winx Club"
+        },
+        {
+            "ID": 37,
+            "name": "Musa",
+            "colorBg": "#ef6297",
+            "movie": "Winx Club"
+        },
+        {
+            "ID": 38,
+            "name": "Tecna",
+            "colorBg": "#e463a6",
+            "movie": "Winx Club"
+        },
+        {
+            "ID": 39,
+            "name": "Aisha",
+            "colorBg": "#29ad6d",
+            "movie": "Winx Club"
+        },
+        {
+            "ID": 40,
+            "name": "Roxy",
+            "colorBg": "#e888cc",
+            "movie": "Winx Club"
+        },
+        {
+            "ID": 41,
+            "name": "Daphne",
+            "colorBg": "#e28ce5",
+            "movie": "Winx Club"
+        },
+        {
+            "ID": 42,
+            "name": "Tanjiro",
+            "colorBg": "#4cba93",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 43,
+            "name": "Kamado Tanjiro",
+            "colorBg": "#fd3f3f",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 44,
+            "name": "Tanjiro",
+            "colorBg": "#3da6df",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 45,
+            "name": "Tanjiro",
+            "colorBg": "#40bf8c",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 46,
+            "name": "Zenitsu",
+            "colorBg": "#fabd4b",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 47,
+            "name": "Zenitsu",
+            "colorBg": "#f0ae3d",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 48,
+            "name": "Zenitsu",
+            "colorBg": "#fdcd59",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 49,
+            "name": "Inosuke",
+            "colorBg": "#a58266",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 50,
+            "name": "Inosuke",
+            "colorBg": "#4c7ebd",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 51,
+            "name": "Inosuke",
+            "colorBg": "#6493ea",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 52,
+            "name": "Nezuko",
+            "colorBg": "#ffa6ac",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 53,
+            "name": "Nezuko",
+            "colorBg": "#edb6b2",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 54,
+            "name": "Nezuko",
+            "colorBg": "#ef7094",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 55,
+            "name": "Tomioka giyuu",
+            "colorBg": "#223657",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 56,
+            "name": "Tomioka giyuu",
+            "colorBg": "#039df6",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 57,
+            "name": "Tomioka giyuu",
+            "colorBg": "#6284e5",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 58,
+            "name": "Kocho shinobu",
+            "colorBg": "#ae9dd9",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 59,
+            "name": "Kocho shinobu",
+            "colorBg": "#837fcb",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 60,
+            "name": "Kocho shinobu",
+            "colorBg": "#9787db",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 61,
+            "name": "Rengoku kyojuro",
+            "colorBg": "#f7b431",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 62,
+            "name": "Uzui tengen",
+            "colorBg": "#d52d2d",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 63,
+            "name": "Uzui tengen",
+            "colorBg": "#9e525e",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 64,
+            "name": "Kanroji mitsuri",
+            "colorBg": "#aecd40",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 65,
+            "name": "Himejima gyomei",
+            "colorBg": "#9f9a4f",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 66,
+            "name": "Tokito muichiro",
+            "colorBg": "#2c8889",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 67,
+            "name": "Iguro obanai",
+            "colorBg": "#5b2eef",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 68,
+            "name": "Shinazugawa sanemi",
+            "colorBg": "#669c50",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 69,
+            "name": "Kocho kanae",
+            "colorBg": "#852dd5",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 70,
+            "name": "Yoriichi",
+            "colorBg": "#b83b2e",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 71,
+            "name": "Yorichi",
+            "colorBg": "#a24b50",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 72,
+            "name": "Kanao",
+            "colorBg": "#9e3ff4",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 73,
+            "name": "Aoi kanzaki",
+            "colorBg": "#656fcc",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 74,
+            "name": "Sabito",
+            "colorBg": "#9b9cc5",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 75,
+            "name": "Makomo",
+            "colorBg": "#ec8aa1",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 76,
+            "name": "Muzan",
+            "colorBg": "#f13c1e",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 77,
+            "name": "Kokushibou",
+            "colorBg": "#9c2e32",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 78,
+            "name": "Douma",
+            "colorBg": "#842a3f",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 79,
+            "name": "Akaza",
+            "colorBg": "#df94a7",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 80,
+            "name": "Hantengu",
+            "colorBg": "#f2b335",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 81,
+            "name": "Gyokko",
+            "colorBg": "#9c4da5",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 82,
+            "name": "Daki",
+            "colorBg": "#d73359",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 83,
+            "name": "Kaigaku",
+            "colorBg": "#5390d7",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 84,
+            "name": "Rui",
+            "colorBg": "#881d2c",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 85,
+            "name": "Tamayo",
+            "colorBg": "#9661c7",
+            "movie": "Kimetsu No Yaiba"
+        },
+        {
+            "ID": 86,
+            "name": "Isagi",
+            "colorBg": "#4ab7e4",
+            "movie": "Blue Lock"
+        },
+        {
+            "ID": 87,
+            "name": "Bachira",
+            "colorBg": "#ffe146",
+            "movie": "Blue Lock"
+        },
+        {
+            "ID": 88,
+            "name": "Chigiri",
+            "colorBg": "#d85e70",
+            "movie": "Blue Lock"
+        },
+        {
+            "ID": 89,
+            "name": "Nagi",
+            "colorBg": "#03e4ff",
+            "movie": "Blue Lock"
+        },
+        {
+            "ID": 90,
+            "name": "Kimihiko Kimizuka",
+            "colorBg": "#7ca5e2",
+            "movie": "The Detective Is Already Dead"
+        },
+        {
+            "ID": 91,
+            "name": "Siesta",
+            "colorBg": "#5d8db5",
+            "movie": "The Detective Is Already Dead"
+        },
+        {
+            "ID": 92,
+            "name": "Siesta",
+            "colorBg": "#5f88b8",
+            "movie": "The Detective Is Already Dead"
+        },
+        {
+            "ID": 93,
+            "name": "Nagisa Natsunagi",
+            "colorBg": "#7ca5e2",
+            "movie": "The Detective Is Already Dead"
+        },
+        {
+            "ID": 94,
+            "name": "Oreki",
+            "colorBg": "#2b587e",
+            "movie": "Hyouka"
+        },
+        {
+            "ID": 95,
+            "name": "Chitanda eru",
+            "colorBg": "#80729a",
+            "movie": "Hyouka"
+        },
+        {
+            "ID": 96,
+            "name": "Tohru",
+            "colorBg": "#ffc560",
+            "movie": "Kobayashi San Chi No Maid Dragon"
+        },
+        {
+            "ID": 97,
+            "name": "Elma",
+            "colorBg": "#6767e6",
+            "movie": "Kobayashi San Chi No Maid Dragon"
+        },
+        {
+            "ID": 98,
+            "name": "Ilulu",
+            "colorBg": "#d781c2",
+            "movie": "Kobayashi San Chi No Maid Dragon"
+        },
+        {
+            "ID": 99,
+            "name": "Kanna kamui",
+            "colorBg": "#fd91ef",
+            "movie": "Kobayashi San Chi No Maid Dragon"
+        },
+        {
+            "ID": 100,
+            "name": "Kanna kamui",
+            "colorBg": "#eb9ead",
+            "movie": "Kobayashi San Chi No Maid Dragon"
+        },
+        {
+            "ID": 101,
+            "name": "Lucoa",
+            "colorBg": "#abca5b",
+            "movie": "Kobayashi San Chi No Maid Dragon"
+        },
+        {
+            "ID": 102,
+            "name": "Sakuta azusagawa",
+            "colorBg": "#c19674",
+            "movie": "Seishun Buta Yarou"
+        },
+        {
+            "ID": 103,
+            "name": "Mai sakurajima",
+            "colorBg": "#717ad3",
+            "movie": "Seishun Buta Yarou"
+        },
+        {
+            "ID": 104,
+            "name": "Mai sakurajima",
+            "colorBg": "#5872a3",
+            "movie": "Seishun Buta Yarou"
+        },
+        {
+            "ID": 105,
+            "name": "Azusagawa Kaede",
+            "colorBg": "#92706b",
+            "movie": "Seishun Buta Yarou"
+        },
+        {
+            "ID": 106,
+            "name": "Tomoe Koga",
+            "colorBg": "#d8ac88",
+            "movie": "Seishun Buta Yarou"
+        },
+        {
+            "ID": 107,
+            "name": "Futaba rio",
+            "colorBg": "#ae9e82",
+            "movie": "Seishun Buta Yarou"
+        },
+        {
+            "ID": 108,
+            "name": "Nanashi mumei",
+            "colorBg": "#1bbbc5",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 109,
+            "name": "Ouro kronii",
+            "colorBg": "#319be1",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 110,
+            "name": "Yukihana Lamy",
+            "colorBg": "#63aae7",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 111,
+            "name": "Hyanna natsu",
+            "colorBg": "#ef909b",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 112,
+            "name": "Gura",
+            "colorBg": "#5ea9d4",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 113,
+            "name": "Gura",
+            "colorBg": "#6aace3",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 114,
+            "name": "Ceres fauna",
+            "colorBg": "#64c4a7",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 115,
+            "name": "Tokoyami Towa",
+            "colorBg": "#ff9ec3",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 116,
+            "name": "Amelia watson",
+            "colorBg": "#ed926e",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 117,
+            "name": "Luna",
+            "colorBg": "#db98c1",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 118,
+            "name": "Pekora",
+            "colorBg": "#738dd8",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 119,
+            "name": "Nekomata okayu",
+            "colorBg": "#a151e5",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 120,
+            "name": "Sleepy ash",
+            "colorBg": "#58a5d6",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 121,
+            "name": "Uto amatsuka",
+            "colorBg": "#3ba9ef",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 122,
+            "name": "Kanata",
+            "colorBg": "#5aaef8",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 123,
+            "name": "Banchou",
+            "colorBg": "#ff973a",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 124,
+            "name": "Kronii",
+            "colorBg": "#deb94a",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 125,
+            "name": "Fubuki",
+            "colorBg": "#31b1e1",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 126,
+            "name": "Du ca",
+            "colorBg": "#ff99b6",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 127,
+            "name": "Oozora subaru",
+            "colorBg": "#3cb3d1",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 128,
+            "name": "Hoshimachi suisei",
+            "colorBg": "#68a2dc",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 129,
+            "name": "Tsunomaki Watame",
+            "colorBg": "#e8a593",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 130,
+            "name": "Nakiri Ayame",
+            "colorBg": "#b71e2d",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 131,
+            "name": "Ookami Mio",
+            "colorBg": "#f72e38",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 132,
+            "name": "Rushia",
+            "colorBg": "#17bbb9",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 133,
+            "name": "Houshou Marine",
+            "colorBg": "#e04553",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 134,
+            "name": "Shirogane noel",
+            "colorBg": "#7ccc5a",
+            "movie": "Virtual Youtuber"
+        },
+        {
+            "ID": 135,
+            "name": "Noelle",
+            "colorBg": "#ed6793",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 136,
+            "name": "Paimon",
+            "colorBg": "#f5b274",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 137,
+            "name": "Rosaria",
+            "colorBg": "#ad344d",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 138,
+            "name": "Zhongli",
+            "colorBg": "#fac542",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 139,
+            "name": "Kaedehara kazuha",
+            "colorBg": "#d1362e",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 140,
+            "name": "Scaramouche",
+            "colorBg": "#f57c4d",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 141,
+            "name": "Eula",
+            "colorBg": "#5a8bd7",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 142,
+            "name": "Tartaglia",
+            "colorBg": "#5e8ed4",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 143,
+            "name": "Diluc ragnvindr",
+            "colorBg": "#b62918",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 144,
+            "name": "Razor",
+            "colorBg": "#b0b453",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 145,
+            "name": "Bennet",
+            "colorBg": "#3cc725",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 146,
+            "name": "Mona",
+            "colorBg": "#7d58de",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 147,
+            "name": "Sayu",
+            "colorBg": "#91c9fd",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 148,
+            "name": "Sayu",
+            "colorBg": "#ff9e2e",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 149,
+            "name": "Venti",
+            "colorBg": "#179a6a",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 150,
+            "name": "Hutao",
+            "colorBg": "#e44335",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 151,
+            "name": "Hutao",
+            "colorBg": "#d34f42",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 152,
+            "name": "Lisa",
+            "colorBg": "#86679a",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 153,
+            "name": "Keqing",
+            "colorBg": "#6a4e90",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 154,
+            "name": "Fischl",
+            "colorBg": "#59a1c9",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 155,
+            "name": "Jean",
+            "colorBg": "#8669aa",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 156,
+            "name": "Ganyu",
+            "colorBg": "#5f8bb6",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 157,
+            "name": "Raiden Shogun",
+            "colorBg": "#7971b2",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 158,
+            "name": "Aether",
+            "colorBg": "#e4b671",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 159,
+            "name": "Lumine",
+            "colorBg": "#6f9fc4",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 160,
+            "name": "Klee",
+            "colorBg": "#d64131",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 161,
+            "name": "Xiao",
+            "colorBg": "#359e9b",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 162,
+            "name": "Gorou",
+            "colorBg": "#d68c48",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 163,
+            "name": "Yae miko",
+            "colorBg": "#fa8da1",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 164,
+            "name": "Qiqi trinh",
+            "colorBg": "#8681ac",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 165,
+            "name": "Ayaka",
+            "colorBg": "#829fbc",
+            "movie": "Genshin Impact"
+        },
+        {
+            "ID": 166,
+            "name": "Kiana",
+            "colorBg": "#ffb243",
+            "movie": "Houkai Impact 3rd"
+        },
+        {
+            "ID": 167,
+            "name": "Seele vollerei",
+            "colorBg": "#5469ed",
+            "movie": "Houkai Impact 3rd"
+        },
+        {
+            "ID": 168,
+            "name": "Yae sakura",
+            "colorBg": "#ec95ae",
+            "movie": "Houkai Impact 3rd"
+        },
+        {
+            "ID": 169,
+            "name": "Raiden mei-herrscher",
+            "colorBg": "#d22a3c",
+            "movie": "Houkai Impact 3rd"
+        },
+        {
+            "ID": 170,
+            "name": "Raiden mei",
+            "colorBg": "#5c74ce",
+            "movie": "Houkai Impact 3rd"
+        },
+        {
+            "ID": 171,
+            "name": "Teri Teri",
+            "colorBg": "#c8a0ca",
+            "movie": "Houkai Impact 3rd"
+        },
+        {
+            "ID": 172,
+            "name": "Bronya",
+            "colorBg": "#5785c9",
+            "movie": "Houkai Impact 3rd"
+        },
+        {
+            "ID": 173,
+            "name": "Fuhua",
+            "colorBg": "#d8494b",
+            "movie": "Houkai Impact 3rd"
+        },
+        {
+            "ID": 174,
+            "name": "Tracer",
+            "colorBg": "#f8c335",
+            "movie": "Overwatch"
+        },
+        {
+            "ID": 175,
+            "name": "Genji",
+            "colorBg": "#91c23b",
+            "movie": "Overwatch"
+        },
+        {
+            "ID": 176,
+            "name": "Dva",
+            "colorBg": "#f6899c",
+            "movie": "Overwatch"
+        },
+        {
+            "ID": 177,
+            "name": "Komi Shouko",
+            "colorBg": "#7a6adb",
+            "movie": "Komisan"
+        },
+        {
+            "ID": 178,
+            "name": "Najimi Osana",
+            "colorBg": "#b26adb",
+            "movie": "Komisan"
+        },
+        {
+            "ID": 179,
+            "name": "Damian Desmond",
+            "colorBg": "#de484c",
+            "movie": "Spy X Family"
+        },
+        {
+            "ID": 180,
+            "name": "Anya Forger",
+            "colorBg": "#7fcbb6",
+            "movie": "Spy X Family"
+        },
+        {
+            "ID": 181,
+            "name": "Hyakkimaru",
+            "colorBg": "#b8353c",
+            "movie": "Dororo"
+        },
+        {
+            "ID": 182,
+            "name": "Dororo",
+            "colorBg": "#7b9a74",
+            "movie": "Dororo"
+        },
+        {
+            "ID": 183,
+            "name": "Gasai Yuno",
+            "colorBg": "#7179cf",
+            "movie": "Mirai Nikki"
+        },
+        {
+            "ID": 184,
+            "name": "Uryuu Minene",
+            "colorBg": "#9b5ab4",
+            "movie": "Mirai Nikki"
+        },
+        {
+            "ID": 185,
+            "name": "Suzuki iruma",
+            "colorBg": "#3fafe8",
+            "movie": "Mairimashita Iruma Kun"
+        },
+        {
+            "ID": 186,
+            "name": "Opera",
+            "colorBg": "#d13d33",
+            "movie": "Mairimashita Iruma Kun"
+        },
+        {
+            "ID": 187,
+            "name": "Chrollo Lucilfer",
+            "colorBg": "#a01c1f",
+            "movie": "Hunter X Hunter"
+        },
+        {
+            "ID": 188,
+            "name": "Killua zoldyck",
+            "colorBg": "#596890",
+            "movie": "Hunter X Hunter"
+        },
+        {
+            "ID": 189,
+            "name": "Kurapika",
+            "colorBg": "#497cf2",
+            "movie": "Hunter X Hunter"
+        },
+        {
+            "ID": 190,
+            "name": "Hisoka Morow",
+            "colorBg": "#f05c80",
+            "movie": "Hunter X Hunter"
+        },
+        {
+            "ID": 191,
+            "name": "Tohno Shiki",
+            "colorBg": "#4470d6",
+            "movie": "Type Moon"
+        },
+        {
+            "ID": 192,
+            "name": "Arcueid Brunestud",
+            "colorBg": "#f8c67e",
+            "movie": "Type Moon"
+        },
+        {
+            "ID": 193,
+            "name": "Emiya shirou",
+            "colorBg": "#3e4588",
+            "movie": "Type Moon"
+        },
+        {
+            "ID": 194,
+            "name": "EMIYA",
+            "colorBg": "#ab9b9b",
+            "movie": "Type Moon"
+        },
+        {
+            "ID": 195,
+            "name": "Tohsaka Rin",
+            "colorBg": "#eb4d73",
+            "movie": "Type Moon"
+        },
+        {
+            "ID": 196,
+            "name": "Shiki ryougi",
+            "colorBg": "#6c7bda",
+            "movie": "Type Moon"
+        },
+        {
+            "ID": 197,
+            "name": "Yugi",
+            "colorBg": "#47a0e5",
+            "movie": "Yu Gi Oh"
+        },
+        {
+            "ID": 198,
+            "name": "Kaiba",
+            "colorBg": "#1987dc",
+            "movie": "Yu Gi Oh"
+        },
+        {
+            "ID": 199,
+            "name": "Bakura ryou",
+            "colorBg": "#7798ab",
+            "movie": "Yu Gi Oh"
+        },
+        {
+            "ID": 200,
+            "name": "Marik ishtar",
+            "colorBg": "#75648c",
+            "movie": "Yu Gi Oh"
+        },
+        {
+            "ID": 201,
+            "name": "Shido Itsuka",
+            "colorBg": "#4d5190",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 202,
+            "name": "Shido itsuka",
+            "colorBg": "#5b87bd",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 203,
+            "name": "Yatogami Tohka",
+            "colorBg": "#ba92d8",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 204,
+            "name": "Queen",
+            "colorBg": "#b378e6",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 205,
+            "name": "Yoshino",
+            "colorBg": "#61a1d3",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 206,
+            "name": "Kurumi",
+            "colorBg": "#4d5190",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 207,
+            "name": "Kurumi",
+            "colorBg": "#ed4032",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 208,
+            "name": "Kotori",
+            "colorBg": "#ed9595",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 209,
+            "name": "Mukuro Hoshimiya",
+            "colorBg": "#f5b274",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 210,
+            "name": "Origami tobiichi",
+            "colorBg": "#6c9ec9",
+            "movie": "Date A Live"
+        },
+        {
+            "ID": 211,
+            "name": "Yuu otosaka",
+            "colorBg": "#87635f",
+            "movie": "Charlotte"
+        },
+        {
+            "ID": 212,
+            "name": "Nao tomori",
+            "colorBg": "#d6425d",
+            "movie": "Charlotte"
+        },
+        {
+            "ID": 213,
+            "name": "Sakurayashiki",
+            "colorBg": "#d879b1",
+            "movie": "Sk8 The Infinity"
+        },
+        {
+            "ID": 214,
+            "name": "Reki Kyan",
+            "colorBg": "#5a9ece",
+            "movie": "Sk8 The Infinity"
+        },
+        {
+            "ID": 215,
+            "name": "Miya Chinen",
+            "colorBg": "#97db34",
+            "movie": "Sk8 The Infinity"
+        },
+        {
+            "ID": 216,
+            "name": "Cherry",
+            "colorBg": "#c48091",
+            "movie": "Sk8 The Infinity"
+        },
+        {
+            "ID": 217,
+            "name": "Langa",
+            "colorBg": "#56789e",
+            "movie": "Sk8 The Infinity"
+        },
+        {
+            "ID": 218,
+            "name": "Gin",
+            "colorBg": "#999",
+            "movie": "Hotarubi"
+        },
+        {
+            "ID": 219,
+            "name": "Takegawa hotaru",
+            "colorBg": "#82d8f0",
+            "movie": "Hotarubi"
+        },
+        {
+            "ID": 220,
+            "name": "Nora noragami",
+            "colorBg": "#ce2f24",
+            "movie": "Noragami"
+        },
+        {
+            "ID": 221,
+            "name": "Yato noragami",
+            "colorBg": "#505061",
+            "movie": "Noragami"
+        },
+        {
+            "ID": 222,
+            "name": "Hanako",
+            "colorBg": "#845c5c",
+            "movie": "Hanako Kun"
+        },
+        {
+            "ID": 223,
+            "name": "Yako",
+            "colorBg": "#f05c80",
+            "movie": "Hanako Kun"
+        },
+        {
+            "ID": 224,
+            "name": "Kou Minamoto",
+            "colorBg": "#ed9b40",
+            "movie": "Hanako Kun"
+        },
+        {
+            "ID": 225,
+            "name": "Nene Yashiro",
+            "colorBg": "#ea484d",
+            "movie": "Hanako Kun"
+        },
+        {
+            "ID": 226,
+            "name": "Minamoto Teru",
+            "colorBg": "#0c192a",
+            "movie": "Hanako Kun"
+        },
+        {
+            "ID": 227,
+            "name": "Sakura nanamine",
+            "colorBg": "#9fb764",
+            "movie": "Hanako Kun"
+        },
+        {
+            "ID": 228,
+            "name": "Akane aoi",
+            "colorBg": "#a684d1",
+            "movie": "Hanako Kun"
+        },
+        {
+            "ID": 229,
+            "name": "Provato pecora",
+            "colorBg": "#a5d24f",
+            "movie": "Slime Taoshite 300 Nen"
+        },
+        {
+            "ID": 230,
+            "name": "Laika",
+            "colorBg": "#e73441",
+            "movie": "Slime Taoshite 300 Nen"
+        },
+        {
+            "ID": 231,
+            "name": "Flatorte",
+            "colorBg": "#6f39e1",
+            "movie": "Slime Taoshite 300 Nen"
+        },
+        {
+            "ID": 232,
+            "name": "Beelzebub",
+            "colorBg": "#bc4d53",
+            "movie": "Slime Taoshite 300 Nen"
+        },
+        {
+            "ID": 233,
+            "name": "Azusa",
+            "colorBg": "#346cfd",
+            "movie": "K On"
+        },
+        {
+            "ID": 234,
+            "name": "Yui hirasawa",
+            "colorBg": "#f3af5f",
+            "movie": "K On"
+        },
+        {
+            "ID": 235,
+            "name": "Lugh tuatha-de",
+            "colorBg": "#6480db",
+            "movie": "The World Finest Assassin"
+        },
+        {
+            "ID": 236,
+            "name": "Dia Vicorne",
+            "colorBg": "#76d9e0",
+            "movie": "The World Finest Assassin"
+        },
+        {
+            "ID": 237,
+            "name": "Reiji",
+            "colorBg": "#478cff",
+            "movie": "Gundam"
+        },
+        {
+            "ID": 238,
+            "name": "SEI iori",
+            "colorBg": "#70cac8",
+            "movie": "Gundam"
+        },
+        {
+            "ID": 239,
+            "name": "Tatsuya shiba",
+            "colorBg": "#48c7aa",
+            "movie": "Mahouka Koukou No Rettousei"
+        },
+        {
+            "ID": 240,
+            "name": "Miyuki shiba",
+            "colorBg": "#48c7aa",
+            "movie": "Mahouka Koukou No Rettousei"
+        },
+        {
+            "ID": 241,
+            "name": "Arima kousei",
+            "colorBg": "#5fa9c1",
+            "movie": "Shigatsu Wa Kimi No Uso"
+        },
+        {
+            "ID": 242,
+            "name": "Kaori miyazono",
+            "colorBg": "#82778a",
+            "movie": "Shigatsu Wa Kimi No Uso"
+        },
+        {
+            "ID": 243,
+            "name": "Izumi miyamura",
+            "colorBg": "#2397f0",
+            "movie": "Horimiya"
+        },
+        {
+            "ID": 244,
+            "name": "Kyouko hori",
+            "colorBg": "#ffb72b",
+            "movie": "Horimiya"
+        },
+        {
+            "ID": 245,
+            "name": "Jennet",
+            "colorBg": "#f9e182",
+            "movie": "Who Made Me A Princess"
+        },
+        {
+            "ID": 246,
+            "name": "Athanasia",
+            "colorBg": "#559fde",
+            "movie": "Who Made Me A Princess"
+        },
+        {
+            "ID": 247,
+            "name": "Claude De-Alger-Obelia",
+            "colorBg": "#e4b653",
+            "movie": "Who Made Me A Princess"
+        },
+        {
+            "ID": 248,
+            "name": "Azul Ashengrotto",
+            "colorBg": "#813bd8",
+            "movie": "Twisted Wonderland"
+        },
+        {
+            "ID": 249,
+            "name": "Idia Shroud",
+            "colorBg": "#5ea5f5",
+            "movie": "Twisted Wonderland"
+        },
+        {
+            "ID": 250,
+            "name": "Epel Felmier",
+            "colorBg": "#8e8ae8",
+            "movie": "Twisted Wonderland"
+        },
+        {
+            "ID": 251,
+            "name": "Malleus Draconia",
+            "colorBg": "#6fa142",
+            "movie": "Twisted Wonderland"
+        },
+        {
+            "ID": 252,
+            "name": "Issei hyoudou",
+            "colorBg": "#ef3d3e",
+            "movie": "High School DxD"
+        },
+        {
+            "ID": 253,
+            "name": "Himejima Akeno",
+            "colorBg": "#9a5fb1",
+            "movie": "High School DxD"
+        },
+        {
+            "ID": 254,
+            "name": "Rias gremory",
+            "colorBg": "#7656f0",
+            "movie": "High School DxD"
+        },
+        {
+            "ID": 255,
+            "name": "Renge miyauchi",
+            "colorBg": "#9990c2",
+            "movie": "Non Non Biyori"
+        },
+        {
+            "ID": 256,
+            "name": "Komari koshigaya",
+            "colorBg": "#ffcb87",
+            "movie": "Non Non Biyori"
+        },
+        {
+            "ID": 257,
+            "name": "Natsumi koshigaya",
+            "colorBg": "#fb9487",
+            "movie": "Non Non Biyori"
+        },
+        {
+            "ID": 258,
+            "name": "Hotaru ichijou",
+            "colorBg": "#fb9487",
+            "movie": "Non Non Biyori"
+        },
+        {
+            "ID": 259,
+            "name": "Tamako Kitashirakawa",
+            "colorBg": "#6eafdd",
+            "movie": "Tamako Market"
+        },
+        {
+            "ID": 260,
+            "name": "Mochizou oji",
+            "colorBg": "#80bbd1",
+            "movie": "Tamako Market"
+        },
+        {
+            "ID": 261,
+            "name": "Anko Kitashirakawa",
+            "colorBg": "#e69cb3",
+            "movie": "Tamako Market"
+        },
+        {
+            "ID": 262,
+            "name": "Anko Kitashirakawa",
+            "colorBg": "#71a7d4",
+            "movie": "Tamako Market"
+        },
+        {
+            "ID": 263,
+            "name": "Shiori asagiri",
+            "colorBg": "#6677a6",
+            "movie": "Tamako Market"
+        },
+        {
+            "ID": 264,
+            "name": "Togashi yuuta",
+            "colorBg": "#9c796b",
+            "movie": "Tamako Market"
+        },
+        {
+            "ID": 265,
+            "name": "Rikka",
+            "colorBg": "#62bdc1",
+            "movie": "Chuunibyou Demo Koi Ga Shitai"
+        },
+        {
+            "ID": 266,
+            "name": "Rikka",
+            "colorBg": "#9777b6",
+            "movie": "Chuunibyou Demo Koi Ga Shitai"
+        },
+        {
+            "ID": 267,
+            "name": "Dekomori",
+            "colorBg": "#d3b17d",
+            "movie": "Chuunibyou Demo Koi Ga Shitai"
+        },
+        {
+            "ID": 268,
+            "name": "Nibutani Shinka",
+            "colorBg": "#da3c3f",
+            "movie": "Chuunibyou Demo Koi Ga Shitai"
+        },
+        {
+            "ID": 269,
+            "name": "Shichimiya",
+            "colorBg": "#f8879e",
+            "movie": "Chuunibyou Demo Koi Ga Shitai"
+        },
+        {
+            "ID": 270,
+            "name": "Touka Takanashi",
+            "colorBg": "#ce6b81",
+            "movie": "Chuunibyou Demo Koi Ga Shitai"
+        },
+        {
+            "ID": 271,
+            "name": "Rimuru Tempest",
+            "colorBg": "#5d9bae",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 272,
+            "name": "Rimuru Tempest",
+            "colorBg": "#69a6dd",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 273,
+            "name": "Rimuru Tempest",
+            "colorBg": "#7698bf",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 274,
+            "name": "Shizue izawa",
+            "colorBg": "#44aca6",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 275,
+            "name": "Chloe aubert",
+            "colorBg": "#48a1ec",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 276,
+            "name": "Shion",
+            "colorBg": "#b681d1",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 277,
+            "name": "Shuna",
+            "colorBg": "#e03f70",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 278,
+            "name": "Veldora",
+            "colorBg": "#cb3248",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 279,
+            "name": "Diablo",
+            "colorBg": "#a0373a",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 280,
+            "name": "Benimaru",
+            "colorBg": "#d75447",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 281,
+            "name": "Souei",
+            "colorBg": "#6b8aad",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 282,
+            "name": "Milim",
+            "colorBg": "#dcaaa4",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 283,
+            "name": "Luminous valentine",
+            "colorBg": "#776ec9",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 284,
+            "name": "Velzard",
+            "colorBg": "#64a8ef",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 285,
+            "name": "Velgrynd",
+            "colorBg": "#ecba66",
+            "movie": "Tensei Shitara Slime Datta Ken"
+        },
+        {
+            "ID": 286,
+            "name": "Akutagawa Ryuunosuke",
+            "colorBg": "#6152d0",
+            "movie": "Bungou Stray Dogs"
+        },
+        {
+            "ID": 287,
+            "name": "Nakajima Atsushi",
+            "colorBg": "#6164f0",
+            "movie": "Bungou Stray Dogs"
+        },
+        {
+            "ID": 288,
+            "name": "Osamu Dazai",
+            "colorBg": "#6e7e9e",
+            "movie": "Bungou Stray Dogs"
+        },
+        {
+            "ID": 289,
+            "name": "Edogawa Ranpo",
+            "colorBg": "#b57c6f",
+            "movie": "Bungou Stray Dogs"
+        },
+        {
+            "ID": 290,
+            "name": "Chuuya",
+            "colorBg": "#d43f54",
+            "movie": "Bungou Stray Dogs"
+        },
+        {
+            "ID": 291,
+            "name": "Yosano akiko",
+            "colorBg": "#7b8ed4",
+            "movie": "Bungou Stray Dogs"
+        },
+        {
+            "ID": 292,
+            "name": "Kyouka izumi",
+            "colorBg": "#f7bc56",
+            "movie": "Bungou Stray Dogs"
+        },
+        {
+            "ID": 293,
+            "name": "Satou kazuma",
+            "colorBg": "#5e9794",
+            "movie": "Kono Suba"
+        },
+        {
+            "ID": 294,
+            "name": "Aqua",
+            "colorBg": "#67a3df",
+            "movie": "Kono Suba"
+        },
+        {
+            "ID": 295,
+            "name": "Megumin",
+            "colorBg": "#d75151",
+            "movie": "Kono Suba"
+        },
+        {
+            "ID": 296,
+            "name": "Darkness",
+            "colorBg": "#f1c16c",
+            "movie": "Kono Suba"
+        },
+        {
+            "ID": 297,
+            "name": "Satoru gojo",
+            "colorBg": "#746294",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 298,
+            "name": "Saturo gojo",
+            "colorBg": "#757bfc",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 299,
+            "name": "Saturo gojo",
+            "colorBg": "#e094e3",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 300,
+            "name": "Sukuna",
+            "colorBg": "#e87e98",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 301,
+            "name": "Sukuna",
+            "colorBg": "#c66163",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 302,
+            "name": "Itadori yuji",
+            "colorBg": "#df5059",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 303,
+            "name": "Mahito",
+            "colorBg": "#7d919a",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 304,
+            "name": "Megumi",
+            "colorBg": "#778aa4",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 305,
+            "name": "Nobara kugisaki",
+            "colorBg": "#8658b4",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 306,
+            "name": "Maki Zenin",
+            "colorBg": "#3a8270",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 307,
+            "name": "Toge inumaki",
+            "colorBg": "#5d6595",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 308,
+            "name": "Mechamaru",
+            "colorBg": "#5fb84a",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 309,
+            "name": "Miwa Kasumi",
+            "colorBg": "#4dbfef",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 310,
+            "name": "Nanami Kento",
+            "colorBg": "#2a6ac0",
+            "movie": "Jujutsu Kaisen"
+        },
+        {
+            "ID": 311,
+            "name": "Asta",
+            "colorBg": "#413b3b",
+            "movie": "Black Clover"
+        },
+        {
+            "ID": 312,
+            "name": "Yuta okkotsu",
+            "colorBg": "#4187d6",
+            "movie": "Black Clover"
+        },
+        {
+            "ID": 313,
+            "name": "Yuno",
+            "colorBg": "#338f44",
+            "movie": "Black Clover"
+        },
+        {
+            "ID": 314,
+            "name": "Nero",
+            "colorBg": "#515da3",
+            "movie": "Black Clover"
+        },
+        {
+            "ID": 315,
+            "name": "Noelle",
+            "colorBg": "#9144cc",
+            "movie": "Black Clover"
+        },
+        {
+            "ID": 316,
+            "name": "Luck voltia",
+            "colorBg": "#5997a5",
+            "movie": "Black Clover"
+        },
+        {
+            "ID": 317,
+            "name": "Mereoleona",
+            "colorBg": "#d26d41",
+            "movie": "Black Clover"
+        },
+        {
+            "ID": 318,
+            "name": "Kahono",
+            "colorBg": "#ca3838",
+            "movie": "Black Clover"
+        },
+        {
+            "ID": 319,
+            "name": "Kirito",
+            "colorBg": "#6cc9da",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 320,
+            "name": "Kirito",
+            "colorBg": "#41bfb5",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 321,
+            "name": "Kirito",
+            "colorBg": "#5998a8",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 322,
+            "name": "Asuna",
+            "colorBg": "#f75148",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 323,
+            "name": "Kirito ggo",
+            "colorBg": "#a15aea",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 324,
+            "name": "Yuuki",
+            "colorBg": "#c870d3",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 325,
+            "name": "Alice zuberg",
+            "colorBg": "#f75148",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 326,
+            "name": "Asada shino",
+            "colorBg": "#70cac0",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 327,
+            "name": "Eugeo",
+            "colorBg": "#40b6e2",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 328,
+            "name": "Argo",
+            "colorBg": "#72c757",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 329,
+            "name": "Suguha",
+            "colorBg": "#71b2b1",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 330,
+            "name": "Kirito summer",
+            "colorBg": "#72d2dd",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 331,
+            "name": "Silica summer",
+            "colorBg": "#72c3dd",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 332,
+            "name": "Yui",
+            "colorBg": "#e69cb3",
+            "movie": "Sword Art Online"
+        },
+        {
+            "ID": 333,
+            "name": "Midoriya",
+            "colorBg": "#3b867a",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 334,
+            "name": "MIDORIYA",
+            "colorBg": "#34b4a6",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 335,
+            "name": "Todoroki Shouto",
+            "colorBg": "#2581ff",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 336,
+            "name": "Todoroki Shouto",
+            "colorBg": "#575468",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 337,
+            "name": "Denki",
+            "colorBg": "#ffc844",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 338,
+            "name": "Bakugou",
+            "colorBg": "#556b71",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 339,
+            "name": "Bakugou",
+            "colorBg": "#fb973f",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 340,
+            "name": "Bakugou",
+            "colorBg": "#254a38",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 341,
+            "name": "Jiro Kyoka",
+            "colorBg": "#6c69d9",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 342,
+            "name": "Camie Utsushimi",
+            "colorBg": "#f6b544",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 343,
+            "name": "Keigo Takami",
+            "colorBg": "#cb4c35",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 344,
+            "name": "Toga himiko",
+            "colorBg": "#ed614e",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 345,
+            "name": "Dabi",
+            "colorBg": "#394972",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 346,
+            "name": "Ochako Uraraka",
+            "colorBg": "#e9709e",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 347,
+            "name": "Tenya Iida",
+            "colorBg": "#588bca",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 348,
+            "name": "All might",
+            "colorBg": "#50a5af",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 349,
+            "name": "TOMURA",
+            "colorBg": "#7295a4",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 350,
+            "name": "Tsuyu asui",
+            "colorBg": "#40bc52",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 351,
+            "name": "Amajiki",
+            "colorBg": "#515480",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 352,
+            "name": "Aizawa",
+            "colorBg": "#375d48",
+            "movie": "My Hero Academia"
+        },
+        {
+            "ID": 353,
+            "name": "Sayori",
+            "colorBg": "#ec8f80",
+            "movie": "Doki Doki Literature Club"
+        },
+        {
+            "ID": 354,
+            "name": "Natsuki",
+            "colorBg": "#eda2ab",
+            "movie": "Doki Doki Literature Club"
+        },
+        {
+            "ID": 355,
+            "name": "Monika",
+            "colorBg": "#6b6cb3",
+            "movie": "Doki Doki Literature Club"
+        },
+        {
+            "ID": 356,
+            "name": "Yuri",
+            "colorBg": "#967ea8",
+            "movie": "Doki Doki Literature Club"
+        },
+        {
+            "ID": 357,
+            "name": "Natsuki",
+            "colorBg": "#f089ae",
+            "movie": "Doki Doki Literature Club"
+        },
+        {
+            "ID": 358,
+            "name": "Uesugi fuutarou",
+            "colorBg": "#547ac7",
+            "movie": "5 Toubun No Hanayome"
+        },
+        {
+            "ID": 359,
+            "name": "Nakano ichika",
+            "colorBg": "#81b0d1",
+            "movie": "5 Toubun No Hanayome"
+        },
+        {
+            "ID": 360,
+            "name": "Nakano nino",
+            "colorBg": "#8d8ad5",
+            "movie": "5 Toubun No Hanayome"
+        },
+        {
+            "ID": 361,
+            "name": "Nakano miku",
+            "colorBg": "#8d9ee0",
+            "movie": "5 Toubun No Hanayome"
+        },
+        {
+            "ID": 362,
+            "name": "Nakano yotsuba",
+            "colorBg": "#a1b369",
+            "movie": "5 Toubun No Hanayome"
+        },
+        {
+            "ID": 363,
+            "name": "Yosuba",
+            "colorBg": "#f59e76",
+            "movie": "5 Toubun No Hanayome"
+        },
+        {
+            "ID": 364,
+            "name": "Nakano itsuki",
+            "colorBg": "#d0797f",
+            "movie": "5 Toubun No Hanayome"
+        },
+        {
+            "ID": 365,
+            "name": "Levi",
+            "colorBg": "#4b3b33",
+            "movie": "Attack On Titan"
+        },
+        {
+            "ID": 366,
+            "name": "Eren",
+            "colorBg": "#615852",
+            "movie": "Attack On Titan"
+        },
+        {
+            "ID": 367,
+            "name": "Eren",
+            "colorBg": "#7c898e",
+            "movie": "Attack On Titan"
+        },
+        {
+            "ID": 368,
+            "name": "Mikasa",
+            "colorBg": "#8c664e",
+            "movie": "Attack On Titan"
+        },
+        {
+            "ID": 369,
+            "name": "Hanji zoe",
+            "colorBg": "#715f51",
+            "movie": "Attack On Titan"
+        },
+        {
+            "ID": 370,
+            "name": "Leonhart",
+            "colorBg": "#949586",
+            "movie": "Attack On Titan"
+        },
+        {
+            "ID": 371,
+            "name": "Armin Arlert",
+            "colorBg": "#f6b857",
+            "movie": "Attack On Titan"
+        },
+        {
+            "ID": 372,
+            "name": "Pieck Finger",
+            "colorBg": "#a18072",
+            "movie": "Attack On Titan"
+        },
+        {
+            "ID": 373,
+            "name": "Tsubasa",
+            "colorBg": "#329dcf",
+            "movie": "You Zitsu"
+        },
+        {
+            "ID": 374,
+            "name": "Wakabayashi",
+            "colorBg": "#ec5353",
+            "movie": "You Zitsu"
+        },
+        {
+            "ID": 375,
+            "name": "Misaki taro",
+            "colorBg": "#356fab",
+            "movie": "You Zitsu"
+        },
+        {
+            "ID": 376,
+            "name": "Ishizaki",
+            "colorBg": "#4f88d8",
+            "movie": "You Zitsu"
+        },
+        {
+            "ID": 377,
+            "name": "Kiyotaka Ayanokoji",
+            "colorBg": "#ae3758",
+            "movie": "You Zitsu"
+        },
+        {
+            "ID": 378,
+            "name": "Mayu",
+            "colorBg": "#b2ac92",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 379,
+            "name": "Luo Tianyi",
+            "colorBg": "#61a1dc",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 380,
+            "name": "IA",
+            "colorBg": "#f488a2",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 381,
+            "name": "Oliver",
+            "colorBg": "#d5bb74",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 382,
+            "name": "Mikuo",
+            "colorBg": "#4fc4c2",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 383,
+            "name": "Hatsume miku",
+            "colorBg": "#90c3be",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 384,
+            "name": "Hatsume miku",
+            "colorBg": "#49cdd9",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 385,
+            "name": "Hatsume miku",
+            "colorBg": "#7dcedb",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 386,
+            "name": "Gakupo Kamui",
+            "colorBg": "#d192de",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 387,
+            "name": "Kaito",
+            "colorBg": "#3294d4",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 388,
+            "name": "Yuzuki Yukari",
+            "colorBg": "#d474c2",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 389,
+            "name": "Kagamine Len",
+            "colorBg": "#f2d42c",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 390,
+            "name": "Kagamine Rin",
+            "colorBg": "#f2d42c",
+            "movie": "Vocaloid"
+        },
+        {
+            "ID": 391,
+            "name": "Kenma",
+            "colorBg": "#6ebed2",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 392,
+            "name": "Keiji akaashi",
+            "colorBg": "#f2d85e",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 393,
+            "name": "Suna",
+            "colorBg": "#de322e",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 394,
+            "name": "Tsukishima",
+            "colorBg": "#233579",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 395,
+            "name": "Hinata Shoyo",
+            "colorBg": "#508cb6",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 396,
+            "name": "Kageyama tobio",
+            "colorBg": "#5b4e92",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 397,
+            "name": "Tanaka",
+            "colorBg": "#da853e",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 398,
+            "name": "Atsumu",
+            "colorBg": "#5274ca",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 399,
+            "name": "Yamaguchi Tadashi",
+            "colorBg": "#e78c48",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 400,
+            "name": "Sugawara",
+            "colorBg": "#66acd0",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 401,
+            "name": "Oikawa tooru",
+            "colorBg": "#4a8a83",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 402,
+            "name": "Kunimi Akira",
+            "colorBg": "#5dcbc3",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 403,
+            "name": "Satori Tendou",
+            "colorBg": "#cd445a",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 404,
+            "name": "Kita",
+            "colorBg": "#a8545f",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 405,
+            "name": "Bokuto",
+            "colorBg": "#f9df6e",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 406,
+            "name": "Kiyoko Shimizu",
+            "colorBg": "#6bb5c5",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 407,
+            "name": "Hitoka yachi",
+            "colorBg": "#c8b28a",
+            "movie": "Haikyuu"
+        },
+        {
+            "ID": 408,
+            "name": "Koro sensei",
+            "colorBg": "#ffca4e",
+            "movie": "Ansatsu Kyoushitsu"
+        },
+        {
+            "ID": 409,
+            "name": "Karma",
+            "colorBg": "#cc3d3d",
+            "movie": "Ansatsu Kyoushitsu"
+        },
+        {
+            "ID": 410,
+            "name": "Karma",
+            "colorBg": "#f36160",
+            "movie": "Ansatsu Kyoushitsu"
+        },
+        {
+            "ID": 411,
+            "name": "Karma",
+            "colorBg": "#cb5251",
+            "movie": "Ansatsu Kyoushitsu"
+        },
+        {
+            "ID": 412,
+            "name": "Nagisa",
+            "colorBg": "#6e99c2",
+            "movie": "Ansatsu Kyoushitsu"
+        },
+        {
+            "ID": 413,
+            "name": "Kayano Kaede",
+            "colorBg": "#75cba2",
+            "movie": "Ansatsu Kyoushitsu"
+        },
+        {
+            "ID": 414,
+            "name": "Subaru",
+            "colorBg": "#ff9e2e",
+            "movie": "Re Zero"
+        },
+        {
+            "ID": 415,
+            "name": "Echidna",
+            "colorBg": "#cc9eff",
+            "movie": "Re Zero"
+        },
+        {
+            "ID": 416,
+            "name": "Emilia",
+            "colorBg": "#a372c2",
+            "movie": "Re Zero"
+        },
+        {
+            "ID": 417,
+            "name": "Rem",
+            "colorBg": "#52a1ff",
+            "movie": "Re Zero"
+        },
+        {
+            "ID": 418,
+            "name": "Ram",
+            "colorBg": "#f18695",
+            "movie": "Re Zero"
+        },
+        {
+            "ID": 419,
+            "name": "Felix",
+            "colorBg": "#7bd5eb",
+            "movie": "Re Zero"
+        },
+        {
+            "ID": 420,
+            "name": "Julius",
+            "colorBg": "#9a77d6",
+            "movie": "Re Zero"
+        },
+        {
+            "ID": 421,
+            "name": "Pack",
+            "colorBg": "#a987d7",
+            "movie": "Re Zero"
+        },
+        {
+            "ID": 422,
+            "name": "Reinhard",
+            "colorBg": "#7460da",
+            "movie": "Re Zero"
+        },
+        {
+            "ID": 423,
+            "name": "Rokuro Enmado",
+            "colorBg": "#d63f3f",
+            "movie": "Twin Star Exorcists"
+        },
+        {
+            "ID": 424,
+            "name": "Benio Adashino",
+            "colorBg": "#824cb8",
+            "movie": "Twin Star Exorcists"
+        },
+        {
+            "ID": 425,
+            "name": "Reiji",
+            "colorBg": "#d63f3f",
+            "movie": "Twin Star Exorcists"
+        },
+        {
+            "ID": 426,
+            "name": "Legosi",
+            "colorBg": "#598e74",
+            "movie": "Beastars"
+        },
+        {
+            "ID": 427,
+            "name": "Rouis",
+            "colorBg": "#eaae6a",
+            "movie": "Beastars"
+        },
+        {
+            "ID": 428,
+            "name": "Haru",
+            "colorBg": "#eebeb1",
+            "movie": "Beastars"
+        },
+        {
+            "ID": 429,
+            "name": "L lawlie",
+            "colorBg": "#454545",
+            "movie": "Death Note"
+        },
+        {
+            "ID": 430,
+            "name": "Death Ryuk",
+            "colorBg": "#5135e0",
+            "movie": "Death Note"
+        },
+        {
+            "ID": 431,
+            "name": "Light Yagami",
+            "colorBg": "#d74f3e",
+            "movie": "Death Note"
+        },
+        {
+            "ID": 432,
+            "name": "Doraemon",
+            "colorBg": "#58d3e9",
+            "movie": "Doraemon"
+        },
+        {
+            "ID": 433,
+            "name": "Doraemon",
+            "colorBg": "#3bdbf8",
+            "movie": "Doraemon"
+        },
+        {
+            "ID": 434,
+            "name": "Doraemon",
+            "colorBg": "#45baeb",
+            "movie": "Doraemon"
+        },
+        {
+            "ID": 435,
+            "name": "Nobita",
+            "colorBg": "#e6b030",
+            "movie": "Doraemon"
+        },
+        {
+            "ID": 436,
+            "name": "Shizuka",
+            "colorBg": "#6d97d1",
+            "movie": "Doraemon"
+        },
+        {
+            "ID": 437,
+            "name": "Doraemi",
+            "colorBg": "#fcbc3f",
+            "movie": "Doraemon"
+        },
+        {
+            "ID": 438,
+            "name": "Roboko",
+            "colorBg": "#1caabd",
+            "movie": "Doraemon"
+        },
+        {
+            "ID": 439,
+            "name": "Satoshi",
+            "colorBg": "#288ce0",
+            "movie": "Pokemon"
+        },
+        {
+            "ID": 440,
+            "name": "Serena",
+            "colorBg": "#e97882",
+            "movie": "Pokemon"
+        },
+        {
+            "ID": 441,
+            "name": "Pikachu",
+            "colorBg": "#f8ce3a",
+            "movie": "Pokemon"
+        },
+        {
+            "ID": 442,
+            "name": "Tsutarja",
+            "colorBg": "#abca5b",
+            "movie": "Pokemon"
+        },
+        {
+            "ID": 443,
+            "name": "Charizard",
+            "colorBg": "#f48f40",
+            "movie": "Pokemon"
+        },
+        {
+            "ID": 444,
+            "name": "Dio",
+            "colorBg": "#0d692b",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 445,
+            "name": "Jotaro",
+            "colorBg": "#53544c",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 446,
+            "name": "Joseph joestar",
+            "colorBg": "#30b05d",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 447,
+            "name": "Jonathan joestar",
+            "colorBg": "#3749ce",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 448,
+            "name": "Giorno giovanna",
+            "colorBg": "#b073a7",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 449,
+            "name": "Yoshikage kira",
+            "colorBg": "#7a79b2",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 450,
+            "name": "Kakyoin",
+            "colorBg": "#516141",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 451,
+            "name": "Jolyne",
+            "colorBg": "#6ba940",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 452,
+            "name": "Johnny",
+            "colorBg": "#4ea6de",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 453,
+            "name": "Josuke",
+            "colorBg": "#396cb1",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 454,
+            "name": "Reimi",
+            "colorBg": "#d489af",
+            "movie": "Jojo"
+        },
+        {
+            "ID": 455,
+            "name": "Conan",
+            "colorBg": "#256ccd",
+            "movie": "Conan"
+        },
+        {
+            "ID": 456,
+            "name": "Conan",
+            "colorBg": "#dd685c",
+            "movie": "Conan"
+        },
+        {
+            "ID": 457,
+            "name": "Conan",
+            "colorBg": "#a47569",
+            "movie": "Conan"
+        },
+        {
+            "ID": 458,
+            "name": "Shinichi",
+            "colorBg": "#55b5ff",
+            "movie": "Conan"
+        },
+        {
+            "ID": 459,
+            "name": "Ran",
+            "colorBg": "#8770b9",
+            "movie": "Conan"
+        },
+        {
+            "ID": 460,
+            "name": "Kogoro mouri",
+            "colorBg": "#4178d4",
+            "movie": "Conan"
+        },
+        {
+            "ID": 461,
+            "name": "Heiji hattori",
+            "colorBg": "#1991bf",
+            "movie": "Conan"
+        },
+        {
+            "ID": 462,
+            "name": "Haibara Ai",
+            "colorBg": "#56b9de",
+            "movie": "Conan"
+        },
+        {
+            "ID": 463,
+            "name": "Mary sera",
+            "colorBg": "#56a28c",
+            "movie": "Conan"
+        },
+        {
+            "ID": 464,
+            "name": "Gin",
+            "colorBg": "#cf3434",
+            "movie": "Conan"
+        },
+        {
+            "ID": 465,
+            "name": "Aoko",
+            "colorBg": "#c773b9",
+            "movie": "Conan"
+        },
+        {
+            "ID": 466,
+            "name": "Sonoko",
+            "colorBg": "#4c88cb",
+            "movie": "Conan"
+        },
+        {
+            "ID": 467,
+            "name": "Kudo Yukiko",
+            "colorBg": "#c58acf",
+            "movie": "Conan"
+        },
+        {
+            "ID": 468,
+            "name": "Vermouth",
+            "colorBg": "#94a853",
+            "movie": "Conan"
+        },
+        {
+            "ID": 469,
+            "name": "Akai shuichi",
+            "colorBg": "#805086",
+            "movie": "Conan"
+        },
+        {
+            "ID": 470,
+            "name": "Kaito kid",
+            "colorBg": "#292c35",
+            "movie": "Conan"
+        },
+        {
+            "ID": 471,
+            "name": "Kazuha toyama",
+            "colorBg": "#bda481",
+            "movie": "Conan"
+        },
+        {
+            "ID": 472,
+            "name": "Akako koizumi",
+            "colorBg": "#5356be",
+            "movie": "Conan"
+        },
+        {
+            "ID": 473,
+            "name": "Kisaki Eri",
+            "colorBg": "#8181cd",
+            "movie": "Conan"
+        },
+        {
+            "ID": 474,
+            "name": "Takemichi",
+            "colorBg": "#ebbc6b",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 475,
+            "name": "Takemichi",
+            "colorBg": "#50a7d9",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 476,
+            "name": "Hinata Tachibana",
+            "colorBg": "#e68e92",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 477,
+            "name": "Naoto tachibana",
+            "colorBg": "#49a6e1",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 478,
+            "name": "Manjiro Sano-[mikey]",
+            "colorBg": "#f5c442",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 479,
+            "name": "Manjiro Sano-[mikey]",
+            "colorBg": "#6fa6c0",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 480,
+            "name": "Black mikey",
+            "colorBg": "#b5b5b5",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 481,
+            "name": "Emma Sano",
+            "colorBg": "#d6ba62",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 482,
+            "name": "Emma Sano",
+            "colorBg": "#68a8cd",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 483,
+            "name": "Ken Ryuguji-[draken]",
+            "colorBg": "#1f242a",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 484,
+            "name": "Ken Ryuguji-[draken]",
+            "colorBg": "#2d4953",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 485,
+            "name": "Tetta Kisaki",
+            "colorBg": "#caab2f",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 486,
+            "name": "Chifuyu Matsuno",
+            "colorBg": "#243231",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 487,
+            "name": "Chifuyu Matsuno",
+            "colorBg": "#f37a31",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 488,
+            "name": "Takashi Mitsuya",
+            "colorBg": "#51597d",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 489,
+            "name": "Keisuke Baji",
+            "colorBg": "#6b625b",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 490,
+            "name": "Keisuke Baji",
+            "colorBg": "#dd3a40",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 491,
+            "name": "Haitani ran",
+            "colorBg": "#d1ae59",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 492,
+            "name": "Haitani rindou",
+            "colorBg": "#988cb3",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 493,
+            "name": "Kawaragi senju",
+            "colorBg": "#9099be",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 494,
+            "name": "Izana kurokawa",
+            "colorBg": "#7842f2",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 495,
+            "name": "Izana kurokawa",
+            "colorBg": "#746db6",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 496,
+            "name": "Kakuchou hitto",
+            "colorBg": "#4a56a2",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 497,
+            "name": "Kazutora Hanemiya",
+            "colorBg": "#d7ba61",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 498,
+            "name": "Kazutora Hanemiya",
+            "colorBg": "#f3ba31",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 499,
+            "name": "Shuji Hanma",
+            "colorBg": "#7d957d",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 500,
+            "name": "Shuji Hanma",
+            "colorBg": "#ba4333",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 501,
+            "name": "Inui seishu",
+            "colorBg": "#d71e1e",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 502,
+            "name": "Imaushi wakasa",
+            "colorBg": "#869592",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 503,
+            "name": "Takeomi Akashi",
+            "colorBg": "#8b6b9e",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 504,
+            "name": "Nahoya Kawata",
+            "colorBg": "#f78889",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 505,
+            "name": "Souya Kawata",
+            "colorBg": "#58cae2",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 506,
+            "name": "Haruchiyo Sanzu",
+            "colorBg": "#d7337d",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 507,
+            "name": "Shinichiro sano",
+            "colorBg": "#52b8e3",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 508,
+            "name": "Hayashida Haruki",
+            "colorBg": "#555",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 509,
+            "name": "Ryohei Hayashi",
+            "colorBg": "#8f8457",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 510,
+            "name": "Akane inui",
+            "colorBg": "#ccb89f",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 511,
+            "name": "Yuzuha shiba",
+            "colorBg": "#f09da5",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 512,
+            "name": "Hakkai shiba",
+            "colorBg": "#638ac3",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 513,
+            "name": "Hajime Kokonoi",
+            "colorBg": "#5839cd",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 514,
+            "name": "Arashi Keizo",
+            "colorBg": "#e2be2f",
+            "movie": "Tokyo Revengers"
+        },
+        {
+            "ID": 515,
+            "name": "Songoku",
+            "colorBg": "#f69e3f",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 516,
+            "name": "Goku ultra-instinct",
+            "colorBg": "#5284b2",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 517,
+            "name": "Songoku blue",
+            "colorBg": "#40bec6",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 518,
+            "name": "Songoku god",
+            "colorBg": "#e63041",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 519,
+            "name": "Songoku ssj1",
+            "colorBg": "#f6c223",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 520,
+            "name": "Songoku ssj2",
+            "colorBg": "#f6c223",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 521,
+            "name": "Songoku ssj3",
+            "colorBg": "#ffd24a",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 522,
+            "name": "Songoku ssj4",
+            "colorBg": "#f74448",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 523,
+            "name": "Vegeta",
+            "colorBg": "#223f89",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 524,
+            "name": "Gohan",
+            "colorBg": "#326ee3",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 525,
+            "name": "Black goku",
+            "colorBg": "#2c2b2f",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 526,
+            "name": "Jiren",
+            "colorBg": "#d42b1d",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 527,
+            "name": "Hit",
+            "colorBg": "#9b62e2",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 528,
+            "name": "Beerus",
+            "colorBg": "#976dbf",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 529,
+            "name": "Kefla",
+            "colorBg": "#7fb63f",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 530,
+            "name": "Piccolo",
+            "colorBg": "#71ba35",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 531,
+            "name": "Granola",
+            "colorBg": "#58bc8d",
+            "movie": "Dragon Ball Z"
+        },
+        {
+            "ID": 532,
+            "name": "Natsu",
+            "colorBg": "#b63232",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 533,
+            "name": "Natsu",
+            "colorBg": "#c82f2a",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 534,
+            "name": "Lucy",
+            "colorBg": "#6a8eb5",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 535,
+            "name": "Happy",
+            "colorBg": "#53bfde",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 536,
+            "name": "Gray",
+            "colorBg": "#1d3c75",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 537,
+            "name": "Juvia",
+            "colorBg": "#5383be",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 538,
+            "name": "Erza",
+            "colorBg": "#c94c53",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 539,
+            "name": "Mirajane",
+            "colorBg": "#947a96",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 540,
+            "name": "Zeref",
+            "colorBg": "#55606e",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 541,
+            "name": "Mavis Vermilion",
+            "colorBg": "#efb563",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 542,
+            "name": "Jellal",
+            "colorBg": "#539cf8",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 543,
+            "name": "Mystogan",
+            "colorBg": "#1c3b45",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 544,
+            "name": "Laxus",
+            "colorBg": "#6d517e",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 545,
+            "name": "Sting eucliffe",
+            "colorBg": "#4d709b",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 546,
+            "name": "Wendy",
+            "colorBg": "#7183aa",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 547,
+            "name": "Carla",
+            "colorBg": "#e77ec7",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 548,
+            "name": "Gajeel",
+            "colorBg": "#646a74",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 549,
+            "name": "Lyon",
+            "colorBg": "#388cda",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 550,
+            "name": "Sherry",
+            "colorBg": "#eb83c1",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 551,
+            "name": "Brandish",
+            "colorBg": "#93c972",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 552,
+            "name": "Virgo",
+            "colorBg": "#6ec9db",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 553,
+            "name": "Dimaria yesta",
+            "colorBg": "#3f040c",
+            "movie": "Fairy Tail"
+        },
+        {
+            "ID": 554,
+            "name": "Luffy",
+            "colorBg": "#f1bc1c",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 555,
+            "name": "Luffy",
+            "colorBg": "#ffd146",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 556,
+            "name": "Luffy gear-4",
+            "colorBg": "#e82b2b",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 557,
+            "name": "Zoro",
+            "colorBg": "#2e483e",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 558,
+            "name": "Zoro",
+            "colorBg": "#42a12f",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 559,
+            "name": "Zoro",
+            "colorBg": "#42a12f",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 560,
+            "name": "Zoro",
+            "colorBg": "#65ad42",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 561,
+            "name": "Sanji",
+            "colorBg": "#484538",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 562,
+            "name": "Sanji",
+            "colorBg": "#4d6aab",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 563,
+            "name": "Ace",
+            "colorBg": "#b63232",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 564,
+            "name": "Chopper",
+            "colorBg": "#4bbdd6",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 565,
+            "name": "Nico robin",
+            "colorBg": "#555b8f",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 566,
+            "name": "Boa hancock",
+            "colorBg": "#d53053",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 567,
+            "name": "Doflamingo",
+            "colorBg": "#d1819f",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 568,
+            "name": "Corazon",
+            "colorBg": "#c28386",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 569,
+            "name": "Nami",
+            "colorBg": "#34a6b4",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 570,
+            "name": "Shanks",
+            "colorBg": "#474e6a",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 571,
+            "name": "Trafalgar law",
+            "colorBg": "#efb23e",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 572,
+            "name": "Marco",
+            "colorBg": "#bd3eb9",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 573,
+            "name": "Katakuri",
+            "colorBg": "#e63e77",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 574,
+            "name": "Vinsmoke Niji",
+            "colorBg": "#3f70a8",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 575,
+            "name": "Vinsmoke Ichiji",
+            "colorBg": "#b64238",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 576,
+            "name": "Vinsmoke Ichiji",
+            "colorBg": "#d23131",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 577,
+            "name": "Vinsmoke yonji",
+            "colorBg": "#63bc43",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 578,
+            "name": "Vinsmoke sanji",
+            "colorBg": "#eac545",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 579,
+            "name": "Sabo",
+            "colorBg": "#429ddc",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 580,
+            "name": "Yamato",
+            "colorBg": "#bd3030",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 581,
+            "name": "Kikunojo",
+            "colorBg": "#c874e1",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 582,
+            "name": "Kaido rejiu",
+            "colorBg": "#ff82a2",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 583,
+            "name": "Edward newgate",
+            "colorBg": "#e12929",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 584,
+            "name": "Sengoku",
+            "colorBg": "#6574b4",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 585,
+            "name": "Kaido",
+            "colorBg": "#6253ad",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 586,
+            "name": "Sakazuki",
+            "colorBg": "#a73c48",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 587,
+            "name": "Mihawk",
+            "colorBg": "#3e78e3",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 588,
+            "name": "Sir Crocodile",
+            "colorBg": "#7fb63f",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 589,
+            "name": "Carrot",
+            "colorBg": "#ef9f77",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 590,
+            "name": "Enel",
+            "colorBg": "#ffa032",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 591,
+            "name": "Franky",
+            "colorBg": "#f14945",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 592,
+            "name": "Jinbei",
+            "colorBg": "#61a1d3",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 593,
+            "name": "Macro",
+            "colorBg": "#9e5ed0",
+            "movie": "One Piece"
+        },
+        {
+            "ID": 594,
+            "name": "Naruto",
+            "colorBg": "#ec7230",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 595,
+            "name": "Naruto",
+            "colorBg": "#f5742e",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 596,
+            "name": "Naruto kcm2",
+            "colorBg": "#fbbe54",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 597,
+            "name": "Sasuke",
+            "colorBg": "#103555",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 598,
+            "name": "Sasuke",
+            "colorBg": "#6283a5",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 599,
+            "name": "Kakashi",
+            "colorBg": "#626b57",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 600,
+            "name": "Haruno Sakura",
+            "colorBg": "#cc7a7f",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 601,
+            "name": "Senju Tsunade",
+            "colorBg": "#4c7c60",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 602,
+            "name": "Jiraiya",
+            "colorBg": "#834f55",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 603,
+            "name": "Boruto",
+            "colorBg": "#1e99e7",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 604,
+            "name": "Mitsuki",
+            "colorBg": "#599bd7",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 605,
+            "name": "Pain yahiko",
+            "colorBg": "#7d2727",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 606,
+            "name": "Nagato",
+            "colorBg": "#981d18",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 607,
+            "name": "Konan",
+            "colorBg": "#981d18",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 608,
+            "name": "Obito",
+            "colorBg": "#1c4d68",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 609,
+            "name": "Kakuzu",
+            "colorBg": "#777",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 610,
+            "name": "Deidara",
+            "colorBg": "#c7a548",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 611,
+            "name": "Itachi",
+            "colorBg": "#47282b",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 612,
+            "name": "Hidan",
+            "colorBg": "#b95e57",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 613,
+            "name": "Kisame",
+            "colorBg": "#b95e57",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 614,
+            "name": "Sasori",
+            "colorBg": "#b8525b",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 615,
+            "name": "Zetsu",
+            "colorBg": "#6f8461",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 616,
+            "name": "Orochimaru",
+            "colorBg": "#705c4e",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 617,
+            "name": "Tenten",
+            "colorBg": "#47282b",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 618,
+            "name": "Kushina",
+            "colorBg": "#9c3c4c",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 619,
+            "name": "Minato",
+            "colorBg": "#777",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 620,
+            "name": "Gaara",
+            "colorBg": "#85464d",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 621,
+            "name": "Hashirama",
+            "colorBg": "#777",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 622,
+            "name": "Madara",
+            "colorBg": "#a3645d",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 623,
+            "name": "Madara rikudou",
+            "colorBg": "#598e74",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 624,
+            "name": "Otsutsuki indra",
+            "colorBg": "#901b1b",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 625,
+            "name": "Shikamaru",
+            "colorBg": "#6f7f5e",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 626,
+            "name": "Temari",
+            "colorBg": "#a095b5",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 627,
+            "name": "Uchiha shisui",
+            "colorBg": "#595f41",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 628,
+            "name": "Uchiha Izuna",
+            "colorBg": "#da3c3f",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 629,
+            "name": "Hinata hyuga",
+            "colorBg": "#816e87",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 630,
+            "name": "Asuma",
+            "colorBg": "#74795a",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 631,
+            "name": "Tobirama",
+            "colorBg": "#3d6499",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 632,
+            "name": "Namida",
+            "colorBg": "#ec5c38",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 633,
+            "name": "Neji",
+            "colorBg": "#7c8e7c",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 634,
+            "name": "Otsutsuki Kaguya",
+            "colorBg": "#789ccc",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 635,
+            "name": "Kurama",
+            "colorBg": "#f88e4a",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 636,
+            "name": "Hyuga Hanabi",
+            "colorBg": "#a94646",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 637,
+            "name": "Rin Nohara",
+            "colorBg": "#cd9e9e",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 638,
+            "name": "Iruka",
+            "colorBg": "#517676",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 639,
+            "name": "Danzo",
+            "colorBg": "#956fa9",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 640,
+            "name": "Izumi uchiha",
+            "colorBg": "#956fa9",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 641,
+            "name": "Sai",
+            "colorBg": "#868c9c",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 642,
+            "name": "Ashura",
+            "colorBg": "#804852",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 643,
+            "name": "Yamato",
+            "colorBg": "#8fa380",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 644,
+            "name": "Shino",
+            "colorBg": "#9ba576",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 645,
+            "name": "Kiba",
+            "colorBg": "#9ba576",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 646,
+            "name": "Ino",
+            "colorBg": "#a67bc7",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 647,
+            "name": "Konohamaru",
+            "colorBg": "#69a0aa",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 648,
+            "name": "Choji",
+            "colorBg": "#b24b4b",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 649,
+            "name": "Sadara",
+            "colorBg": "#c75449",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 650,
+            "name": "Kawaki",
+            "colorBg": "#b95768",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 651,
+            "name": "Sumire Kakei",
+            "colorBg": "#9575bf",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 652,
+            "name": "Himawari",
+            "colorBg": "#64ccea",
+            "movie": "Naruto"
+        },
+        {
+            "ID": 653,
+            "name": "Taki",
+            "colorBg": "#539bc5",
+            "movie": "Your Name"
+        },
+        {
+            "ID": 654,
+            "name": "Mitsuha",
+            "colorBg": "#8f7fa4",
+            "movie": "Your Name"
+        },
+        {
+            "ID": 655,
+            "name": "Ichika Usami",
+            "colorBg": "#f977bf",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 656,
+            "name": "Cure flora",
+            "colorBg": "#ff64d4",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 657,
+            "name": "Cure mermaid",
+            "colorBg": "#5b9ac9",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 658,
+            "name": "Cure twinkle",
+            "colorBg": "#fecb40",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 659,
+            "name": "Cure scarlet",
+            "colorBg": "#f3365e",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 660,
+            "name": "Haruno haruka",
+            "colorBg": "#f46546",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 661,
+            "name": "Kaido minami",
+            "colorBg": "#52cdf6",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 662,
+            "name": "Amanogawa kirara",
+            "colorBg": "#ffc770",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 663,
+            "name": "Akagi towa",
+            "colorBg": "#f78480",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 664,
+            "name": "Kaguya Madoka",
+            "colorBg": "#79649d",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 665,
+            "name": "Reika aoki",
+            "colorBg": "#4291e9",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 666,
+            "name": "Yayoi kise",
+            "colorBg": "#fbd85e",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 667,
+            "name": "Nao midorikawa",
+            "colorBg": "#7cd252",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 668,
+            "name": "Akane hino",
+            "colorBg": "#eca748",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 669,
+            "name": "Fuwa",
+            "colorBg": "#6bd0f1",
+            "movie": "Pretty Cure"
+        },
+        {
+            "ID": 670,
+            "name": "Miyuki hoshizora",
+            "colorBg": "#f6abd0",
+            "movie": "Pripara"
+        },
+        {
+            "ID": 671,
+            "name": "Laala Manaka",
+            "colorBg": "#d98be7",
+            "movie": "Pripara"
+        },
+        {
+            "ID": 672,
+            "name": "Hojo Sophie",
+            "colorBg": "#ff72a6",
+            "movie": "Pripara"
+        },
+        {
+            "ID": 673,
+            "name": "Yui Yumekawa",
+            "colorBg": "#f6cb8e",
+            "movie": "Pripara"
+        },
+        {
+            "ID": 674,
+            "name": "Raki kiseki",
+            "colorBg": "#28a0bc",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 675,
+            "name": "Yuuki aine",
+            "colorBg": "#5b81d4",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 676,
+            "name": "Minato mio",
+            "colorBg": "#5b81d4",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 677,
+            "name": "Kaguya",
+            "colorBg": "#996bff",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 678,
+            "name": "Yume nijino",
+            "colorBg": "#d86f9f",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 679,
+            "name": "Hoshimiya Ichigo",
+            "colorBg": "#f499b1",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 680,
+            "name": "Kanzaki Mizuki",
+            "colorBg": "#d272eb",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 681,
+            "name": "Mahiru Kasumi",
+            "colorBg": "#f28598",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 682,
+            "name": "Koharu nanakura",
+            "colorBg": "#9a7ce1",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 683,
+            "name": "Shibuki Ran",
+            "colorBg": "#6368d6",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 684,
+            "name": "Kiriya Aoi",
+            "colorBg": "#6399d6",
+            "movie": "Aikatsu"
+        },
+        {
+            "ID": 685,
+            "name": "Sinestria",
+            "colorBg": "#ce4147",
+            "movie": "Arena Of Valor"
+        },
+        {
+            "ID": 686,
+            "name": "Hibiki",
+            "colorBg": "#66a9ec",
+            "movie": "Kancolle"
+        },
+        {
+            "ID": 687,
+            "name": "Nagatoro",
+            "colorBg": "#6574cf",
+            "movie": "Nagatoro"
+        },
+        {
+            "ID": 688,
+            "name": "Rinu",
+            "colorBg": "#fd97ab",
+            "movie": "Strawberry Prince"
+        },
+        {
+            "ID": 689,
+            "name": "Sakura kinomoto",
+            "colorBg": "#fd97ab",
+            "movie": "Cardcaptor Sakura"
+        },
+        {
+            "ID": 690,
+            "name": "Koito Minase",
+            "colorBg": "#dc7bb3",
+            "movie": "Musaigen No Phantom World"
+        },
+        {
+            "ID": 691,
+            "name": "Yuliy Jirov",
+            "colorBg": "#537187",
+            "movie": "Sirius The Jaeger"
+        },
+        {
+            "ID": 692,
+            "name": "Beelzebub",
+            "colorBg": "#867bc4",
+            "movie": "Beelzebub Winter Clothes"
+        },
+        {
+            "ID": 693,
+            "name": "Chizuru",
+            "colorBg": "#8277cd",
+            "movie": "Kanojo Okarishimasu"
+        },
+        {
+            "ID": 694,
+            "name": "Onigasaki kaikoku",
+            "colorBg": "#6677a6",
+            "movie": "Naka No Hito"
+        },
+        {
+            "ID": 695,
+            "name": "Karin",
+            "colorBg": "#e68599",
+            "movie": "Naka No Hito"
+        },
+        {
+            "ID": 696,
+            "name": "Alucard",
+            "colorBg": "#7a8296",
+            "movie": "Hellsing"
+        },
+        {
+            "ID": 697,
+            "name": "Tina Sprout",
+            "colorBg": "#6ba7ad",
+            "movie": "Black Bullet"
+        },
+        {
+            "ID": 698,
+            "name": "Yuichiro hyakuya",
+            "colorBg": "#9cca53",
+            "movie": "Owari No Seraph"
+        },
+        {
+            "ID": 699,
+            "name": "Mikaela Hyakuya",
+            "colorBg": "#42373b",
+            "movie": "Owari No Seraph"
+        },
+        {
+            "ID": 700,
+            "name": "Shinoa hiragi",
+            "colorBg": "#8f7fa3",
+            "movie": "Owari No Seraph"
+        },
+        {
+            "ID": 701,
+            "name": "Guren",
+            "colorBg": "#6c809e",
+            "movie": "Owari No Seraph"
+        },
+        {
+            "ID": 702,
+            "name": "Shinya Hiiragi",
+            "colorBg": "#e7b255",
+            "movie": "Owari No Seraph"
+        },
+        {
+            "ID": 703,
+            "name": "Sniper Mask",
+            "colorBg": "#464c5c",
+            "movie": "Tenkuu Shinpan"
+        },
+        {
+            "ID": 704,
+            "name": "Aiko chan",
+            "colorBg": "#f4cd65",
+            "movie": "Synthv"
+        },
+        {
+            "ID": 705,
+            "name": "Takumi Fujiwara",
+            "colorBg": "#378aba",
+            "movie": "Initiald"
+        },
+        {
+            "ID": 706,
+            "name": "Keisuke Takahashi",
+            "colorBg": "#ce5d4e",
+            "movie": "Initiald"
+        },
+        {
+            "ID": 707,
+            "name": "Ryosuke Takahashi",
+            "colorBg": "#c64545",
+            "movie": "Initiald"
+        },
+        {
+            "ID": 708,
+            "name": "Tairitsu",
+            "colorBg": "#7aaecc",
+            "movie": "Arcaea"
+        },
+        {
+            "ID": 709,
+            "name": "Isla",
+            "colorBg": "#948aed",
+            "movie": "Plastic Memories"
+        },
+        {
+            "ID": 710,
+            "name": "Rin Okumura",
+            "colorBg": "#6a9be6",
+            "movie": "Ao No Exorcist"
+        },
+        {
+            "ID": 711,
+            "name": "Rin Okumura",
+            "colorBg": "#50a3f4",
+            "movie": "Ao No Exorcist"
+        },
+        {
+            "ID": 712,
+            "name": "Kuro Usagi",
+            "colorBg": "#78b3f4",
+            "movie": "Mondaiji Tachi"
+        },
+        {
+            "ID": 713,
+            "name": "Qin Shi-Huang",
+            "colorBg": "#d93c3c",
+            "movie": "Record Of Ragnarok"
+        },
+        {
+            "ID": 714,
+            "name": "Jack The-Ripper",
+            "colorBg": "#af3c3c",
+            "movie": "Record Of Ragnarok"
+        },
+        {
+            "ID": 715,
+            "name": "Adam",
+            "colorBg": "#62c84e",
+            "movie": "Record Of Ragnarok"
+        },
+        {
+            "ID": 716,
+            "name": "Keyaru",
+            "colorBg": "#df8f58",
+            "movie": "Kaiyari"
+        },
+        {
+            "ID": 717,
+            "name": "Junko enoshima",
+            "colorBg": "#bf2b3d",
+            "movie": "Danganronpa"
+        },
+        {
+            "ID": 718,
+            "name": "Nagito Komaeda",
+            "colorBg": "#63866f",
+            "movie": "Danganronpa"
+        },
+        {
+            "ID": 719,
+            "name": "Maki Harukawa",
+            "colorBg": "#b33a31",
+            "movie": "Danganronpa"
+        },
+        {
+            "ID": 720,
+            "name": "Hajime hinata",
+            "colorBg": "#677b5d",
+            "movie": "Danganronpa"
+        },
+        {
+            "ID": 721,
+            "name": "Nanami",
+            "colorBg": "#5997a5",
+            "movie": "Danganronpa"
+        },
+        {
+            "ID": 722,
+            "name": "Kuroko",
+            "colorBg": "#499bba",
+            "movie": "Kuroko No Basuke"
+        },
+        {
+            "ID": 723,
+            "name": "Aomine Daiki",
+            "colorBg": "#ed6d39",
+            "movie": "Kuroko No Basuke"
+        },
+        {
+            "ID": 724,
+            "name": "Satsuki Momoi",
+            "colorBg": "#59c9d6",
+            "movie": "Kuroko No Basuke"
+        },
+        {
+            "ID": 725,
+            "name": "Satsuki momoi",
+            "colorBg": "#86e2b5",
+            "movie": "Kuroko No Basuke"
+        },
+        {
+            "ID": 726,
+            "name": "Izayoi Sakamaki",
+            "colorBg": "#707eba",
+            "movie": "Mondaiji"
+        },
+        {
+            "ID": 727,
+            "name": "Soma Yukihira",
+            "colorBg": "#ffcf5b",
+            "movie": "Shokugeki No Soma"
+        },
+        {
+            "ID": 728,
+            "name": "Serinuma kae",
+            "colorBg": "#c17fc6",
+            "movie": "Watashi Ga Motete Dousunda"
+        },
+        {
+            "ID": 729,
+            "name": "Saotome Mary",
+            "colorBg": "#c14b54",
+            "movie": "Kakegurui"
+        },
+        {
+            "ID": 730,
+            "name": "Runa",
+            "colorBg": "#ee8c6f",
+            "movie": "Kakegurui"
+        },
+        {
+            "ID": 731,
+            "name": "Yumeko",
+            "colorBg": "#ba312b",
+            "movie": "Kakegurui"
+        },
+        {
+            "ID": 732,
+            "name": "Amu hinamori",
+            "colorBg": "#f690a8",
+            "movie": "Shugo Chara"
+        },
+        {
+            "ID": 733,
+            "name": "Mikey",
+            "colorBg": "#8da83f",
+            "movie": "Ninja Turtle"
+        },
+        {
+            "ID": 734,
+            "name": "Mahiru Banba",
+            "colorBg": "#9892d1",
+            "movie": "Akuma No Riddle"
+        },
+        {
+            "ID": 735,
+            "name": "Adagaki aki",
+            "colorBg": "#e5abcc",
+            "movie": "Masamunekuns Revenge"
+        },
+        {
+            "ID": 736,
+            "name": "Aishia",
+            "colorBg": "#fbadd0",
+            "movie": "Seirei Gensouki"
+        },
+        {
+            "ID": 737,
+            "name": "Owen knight",
+            "colorBg": "#a0a0a0",
+            "movie": "Windbreaker"
+        },
+        {
+            "ID": 738,
+            "name": "Geordo Stuart",
+            "colorBg": "#f7ba59",
+            "movie": "Bakarina"
+        },
+        {
+            "ID": 739,
+            "name": "Ishigami Yu",
+            "colorBg": "#71b8c8",
+            "movie": "Kaguyasama Wa Kokurasetai"
+        },
+        {
+            "ID": 740,
+            "name": "Hayasaka Ai",
+            "colorBg": "#6fc2e5",
+            "movie": "Kaguyasama Wa Kokurasetai"
+        },
+        {
+            "ID": 741,
+            "name": "Chika",
+            "colorBg": "#ef6f89",
+            "movie": "Kaguyasama Wa Kokurasetai"
+        },
+        {
+            "ID": 742,
+            "name": "Kaguya",
+            "colorBg": "#cf332b",
+            "movie": "Kaguyasama Wa Kokurasetai"
+        },
+        {
+            "ID": 743,
+            "name": "Shinomiya Kaguya",
+            "colorBg": "#d1373d",
+            "movie": "Kaguyasama Wa Kokurasetai"
+        },
+        {
+            "ID": 744,
+            "name": "Shinra kusakabe",
+            "colorBg": "#6ec9db",
+            "movie": "Fire Force"
+        },
+        {
+            "ID": 745,
+            "name": "Cadis Etrama-Di-Raizel",
+            "colorBg": "#9b1418",
+            "movie": "Noblesse"
+        },
+        {
+            "ID": 746,
+            "name": "Kouko kaga",
+            "colorBg": "#fa9a4c",
+            "movie": "Golden Time"
+        },
+        {
+            "ID": 747,
+            "name": "Talulah",
+            "colorBg": "#1f0e0e",
+            "movie": "Arknights"
+        },
+        {
+            "ID": 748,
+            "name": "Adnachiel",
+            "colorBg": "#4242f2",
+            "movie": "Ark Nights"
+        },
+        {
+            "ID": 749,
+            "name": "Lirin",
+            "colorBg": "#ef94ac",
+            "movie": "Stormlight Archive"
+        },
+        {
+            "ID": 750,
+            "name": "Hanakoizumi",
+            "colorBg": "#f6b857",
+            "movie": "Anne Happy"
+        },
+        {
+            "ID": 751,
+            "name": "Noir Stadia",
+            "colorBg": "#56d087",
+            "movie": "The Hidden Dungeon Only I Can Enter"
+        },
+        {
+            "ID": 752,
+            "name": "Masuzu Natsukawa",
+            "colorBg": "#8d9bde",
+            "movie": "Oreshura"
+        },
+        {
+            "ID": 753,
+            "name": "Noriko Sonozaki",
+            "colorBg": "#5c9ad9",
+            "movie": "Kiznaiver"
+        },
+        {
+            "ID": 754,
+            "name": "Yuu mashiro",
+            "colorBg": "#6cc0b4",
+            "movie": "Number 24"
+        },
+        {
+            "ID": 755,
+            "name": "Hoshizaki Rika",
+            "colorBg": "#f5a56b",
+            "movie": "Kanojo Mo Kanojo"
+        },
+        {
+            "ID": 756,
+            "name": "Morgiana",
+            "colorBg": "#f56b99",
+            "movie": "Magi The Labyrinth Of Magic"
+        },
+        {
+            "ID": 757,
+            "name": "Asuka Tanaka",
+            "colorBg": "#c6a67b",
+            "movie": "Hibike Euphonium"
+        },
+        {
+            "ID": 758,
+            "name": "Asuka Tanaka",
+            "colorBg": "#6db2e3",
+            "movie": "Hibike Euphonium"
+        },
+        {
+            "ID": 759,
+            "name": "Bojji",
+            "colorBg": "#4e8ad0",
+            "movie": "Ousama Ranking"
+        },
+        {
+            "ID": 760,
+            "name": "Harry potter",
+            "colorBg": "#bf2121",
+            "movie": "Harry Potter"
+        },
+        {
+            "ID": 761,
+            "name": "Draco malfoy",
+            "colorBg": "#34ab61",
+            "movie": "Harry Potter"
+        },
+        {
+            "ID": 762,
+            "name": "Tanya degurechaff",
+            "colorBg": "#679066",
+            "movie": "Youjo Senki"
+        },
+        {
+            "ID": 763,
+            "name": "Sanae",
+            "colorBg": "#85c276",
+            "movie": "Touhou"
+        },
+        {
+            "ID": 764,
+            "name": "Jail",
+            "colorBg": "#6364b3",
+            "movie": "Plunderer"
+        },
+        {
+            "ID": 765,
+            "name": "Licht Bach",
+            "colorBg": "#b0374b",
+            "movie": "Plunderer"
+        },
+        {
+            "ID": 766,
+            "name": "Menhera chan",
+            "colorBg": "#f88c93",
+            "movie": "Menhera Shoujo Kurumi Chan"
+        },
+        {
+            "ID": 767,
+            "name": "Catarina",
+            "colorBg": "#3ab0d5",
+            "movie": "Destruction Flag Otome"
+        },
+        {
+            "ID": 768,
+            "name": "Isuzu Sento",
+            "colorBg": "#cb362e",
+            "movie": "Amagi Brilliant"
+        },
+        {
+            "ID": 769,
+            "name": "Kyaru",
+            "colorBg": "#9888ae",
+            "movie": "Princess Connect"
+        },
+        {
+            "ID": 770,
+            "name": "Meliodas",
+            "colorBg": "#fcb84c",
+            "movie": "Nanatsu No Taizai"
+        },
+        {
+            "ID": 771,
+            "name": "Fumino Furuhashi",
+            "colorBg": "#6b9df1",
+            "movie": "We Never Learn"
+        },
+        {
+            "ID": 772,
+            "name": "Leonardo",
+            "colorBg": "#3475d7",
+            "movie": "Kekkai Sensen"
+        },
+        {
+            "ID": 773,
+            "name": "Matsuda Takato",
+            "colorBg": "#31acea",
+            "movie": "Digimon"
+        },
+        {
+            "ID": 774,
+            "name": "Sung jinwoo",
+            "colorBg": "#294c6d",
+            "movie": "Solo Leveling"
+        },
+        {
+            "ID": 775,
+            "name": "Hachiman",
+            "colorBg": "#3c7cd4",
+            "movie": "Oregairu"
+        },
+        {
+            "ID": 776,
+            "name": "Yukinoshita",
+            "colorBg": "#338edb",
+            "movie": "Oregairu"
+        },
+        {
+            "ID": 777,
+            "name": "Nadeshiko",
+            "colorBg": "#ff8fc3",
+            "movie": "Yuru Camp"
+        },
+        {
+            "ID": 778,
+            "name": "Rin shima",
+            "colorBg": "#7099d6",
+            "movie": "Yuru Camp"
+        },
+        {
+            "ID": 779,
+            "name": "Yuri ayato",
+            "colorBg": "#e87797",
+            "movie": "Yarichin Bitch Club"
+        },
+        {
+            "ID": 780,
+            "name": "Tanaka",
+            "colorBg": "#b38d70",
+            "movie": "Tanaka Kun"
+        },
+        {
+            "ID": 781,
+            "name": "Haku",
+            "colorBg": "#5a9dc4",
+            "movie": "Ghibli"
+        },
+        {
+            "ID": 782,
+            "name": "Kaonashi",
+            "colorBg": "#9c9c9c",
+            "movie": "Ghibli"
+        },
+        {
+            "ID": 783,
+            "name": "Totoro",
+            "colorBg": "#c5b388",
+            "movie": "Ghibli"
+        },
+        {
+            "ID": 784,
+            "name": "Rachel gardner",
+            "colorBg": "#f4c790",
+            "movie": "Satsuriku No Tenshi"
+        },
+        {
+            "ID": 785,
+            "name": "Isaac Foster",
+            "colorBg": "#66585b",
+            "movie": "Satsuriku No Tenshi"
+        },
+        {
+            "ID": 786,
+            "name": "Beelzebub",
+            "colorBg": "#2ed177",
+            "movie": "Beelzebub"
+        },
+        {
+            "ID": 787,
+            "name": "Hanamichi Sakuragi",
+            "colorBg": "#d02a21",
+            "movie": "Slam Dunk"
+        },
+        {
+            "ID": 788,
+            "name": "Shophie Hatter",
+            "colorBg": "#5492b9",
+            "movie": "Howls Moving Castle"
+        },
+        {
+            "ID": 789,
+            "name": "Howl",
+            "colorBg": "#5b73a5",
+            "movie": "Howls Moving Castle"
+        },
+        {
+            "ID": 790,
+            "name": "Noé Archiviste",
+            "colorBg": "#6a5dca",
+            "movie": "The Case Study Of Vanitas"
+        },
+        {
+            "ID": 791,
+            "name": "Noé Archiviste",
+            "colorBg": "#9892d1",
+            "movie": "The Case Study Of Vanitas"
+        },
+        {
+            "ID": 792,
+            "name": "Vanitas",
+            "colorBg": "#4c91cb",
+            "movie": "The Case Study Of Vanitas"
+        },
+        {
+            "ID": 793,
+            "name": "Louis",
+            "colorBg": "#776ec9",
+            "movie": "The Case Study Of Vanitas"
+        },
+        {
+            "ID": 794,
+            "name": "Ruv",
+            "colorBg": "#ae86c0",
+            "movie": "Funkipedia Mods"
+        },
+        {
+            "ID": 795,
+            "name": "Sarvente",
+            "colorBg": "#fc4fa5",
+            "movie": "Funkipedia Mods"
+        },
+        {
+            "ID": 796,
+            "name": "Selever",
+            "colorBg": "#d85bab",
+            "movie": "Funkipedia Mods"
+        },
+        {
+            "ID": 797,
+            "name": "Pico",
+            "colorBg": "#ffca4a",
+            "movie": "Boku No Pico"
+        },
+        {
+            "ID": 798,
+            "name": "Mieruko",
+            "colorBg": "#f7c35e",
+            "movie": "Mieruko Chan"
+        },
+        {
+            "ID": 799,
+            "name": "Kaneki ken",
+            "colorBg": "#b22a2a",
+            "movie": "Tokyo Ghoul"
+        },
+        {
+            "ID": 800,
+            "name": "Suzuya juuzou",
+            "colorBg": "#c43432",
+            "movie": "Tokyo Ghoul"
+        },
+        {
+            "ID": 801,
+            "name": "Yoshimura eto",
+            "colorBg": "#6f253e",
+            "movie": "Tokyo Ghoul"
+        },
+        {
+            "ID": 802,
+            "name": "Tomoe",
+            "colorBg": "#60ced9",
+            "movie": "Kamisama Hajimemashita"
+        },
+        {
+            "ID": 803,
+            "name": "Tomoe",
+            "colorBg": "#6d7094",
+            "movie": "Kamisama Hajimemashita"
+        },
+        {
+            "ID": 804,
+            "name": "Gilgamesh caster",
+            "colorBg": "#f9c24c",
+            "movie": "Fate Grand Order"
+        },
+        {
+            "ID": 805,
+            "name": "Gilgamesh",
+            "colorBg": "#829fbc",
+            "movie": "Fate Grand Order"
+        },
+        {
+            "ID": 806,
+            "name": "Saber",
+            "colorBg": "#5a9ece",
+            "movie": "Fate Grand Order"
+        },
+        {
+            "ID": 807,
+            "name": "Alter saber",
+            "colorBg": "#4950f2",
+            "movie": "Fate Grand Order"
+        },
+        {
+            "ID": 808,
+            "name": "Okita souji",
+            "colorBg": "#6ab9be",
+            "movie": "Fate Grand Order"
+        },
+        {
+            "ID": 809,
+            "name": "Makima",
+            "colorBg": "#ea3d4d",
+            "movie": "Chainsaw Man"
+        },
+        {
+            "ID": 810,
+            "name": "Power",
+            "colorBg": "#d33838",
+            "movie": "Chainsaw Man"
+        },
+        {
+            "ID": 811,
+            "name": "Reze",
+            "colorBg": "#678ee6",
+            "movie": "Chainsaw Man"
+        },
+        {
+            "ID": 812,
+            "name": "Sakuma Ritsu",
+            "colorBg": "#4687c3",
+            "movie": "The Ensemble Stars"
+        },
+        {
+            "ID": 813,
+            "name": "SOPMOD",
+            "colorBg": "#e1393f",
+            "movie": "Yandere"
+        },
+        {
+            "ID": 814,
+            "name": "Shu kurenai",
+            "colorBg": "#b43c4e",
+            "movie": "Beyblade"
+        },
+        {
+            "ID": 815,
+            "name": "Valt aoi",
+            "colorBg": "#438be2",
+            "movie": "Beyblade"
+        },
+        {
+            "ID": 816,
+            "name": "Free de-la-hoya",
+            "colorBg": "#efc122",
+            "movie": "Beyblade"
+        },
+        {
+            "ID": 817,
+            "name": "Starfire",
+            "colorBg": "#af2b38",
+            "movie": "Teen Titans"
+        },
+        {
+            "ID": 818,
+            "name": "Raven",
+            "colorBg": "#855fee",
+            "movie": "Teen Titans"
+        },
+        {
+            "ID": 819,
+            "name": "Ayano aishi",
+            "colorBg": "#425cba",
+            "movie": "Yandere Simulator"
+        },
+        {
+            "ID": 820,
+            "name": "Ayano aishi",
+            "colorBg": "#5065ba",
+            "movie": "Yandere Simulator"
+        },
+        {
+            "ID": 821,
+            "name": "Saiki kusuo",
+            "colorBg": "#2ec38b",
+            "movie": "Saikikusuo No Psinan"
+        },
+        {
+            "ID": 822,
+            "name": "Sans",
+            "colorBg": "#347fd8",
+            "movie": "Undertale"
+        },
+        {
+            "ID": 823,
+            "name": "Chara",
+            "colorBg": "#70bd6b",
+            "movie": "Undertale"
+        },
+        {
+            "ID": 824,
+            "name": "Mettaton",
+            "colorBg": "#ff85b8",
+            "movie": "Undertale"
+        },
+        {
+            "ID": 825,
+            "name": "Senko",
+            "colorBg": "#f5a933",
+            "movie": "Senko San"
+        },
+        {
+            "ID": 826,
+            "name": "Lala satalin-deviluke",
+            "colorBg": "#57a5b1",
+            "movie": "To Love Ru"
+        },
+        {
+            "ID": 827,
+            "name": "Rudeus",
+            "colorBg": "#eb494a",
+            "movie": "Mushoku Tensei"
+        },
+        {
+            "ID": 828,
+            "name": "Roxy",
+            "colorBg": "#5173f2",
+            "movie": "Mushoku Tensei"
+        },
+        {
+            "ID": 829,
+            "name": "Sylphy",
+            "colorBg": "#9ed463",
+            "movie": "Mushoku Tensei"
+        },
+        {
+            "ID": 830,
+            "name": "Eris",
+            "colorBg": "#da3b45",
+            "movie": "Mushoku Tensei"
+        },
+        {
+            "ID": 831,
+            "name": "Kuma bear",
+            "colorBg": "#8ab0e0",
+            "movie": "Kuma Kuma Kuma Bear"
+        },
+        {
+            "ID": 832,
+            "name": "Baki",
+            "colorBg": "#fc5048",
+            "movie": "Baki"
+        },
+        {
+            "ID": 833,
+            "name": "Chtholly",
+            "colorBg": "#66a4ed",
+            "movie": "Suka Suka"
+        },
+        {
+            "ID": 834,
+            "name": "Nier",
+            "colorBg": "#c8bfb4",
+            "movie": "Nier"
+        },
+        {
+            "ID": 835,
+            "name": "Mao amatsuka",
+            "colorBg": "#f28258",
+            "movie": "Gj Bu"
+        },
+        {
+            "ID": 836,
+            "name": "Naofumi",
+            "colorBg": "#64d252",
+            "movie": "Shield Hero"
+        },
+        {
+            "ID": 837,
+            "name": "Raphtalia",
+            "colorBg": "#d58390",
+            "movie": "Shield Hero"
+        },
+        {
+            "ID": 838,
+            "name": "Yuma kuga",
+            "colorBg": "#e63030",
+            "movie": "World Trigger"
+        },
+        {
+            "ID": 839,
+            "name": "Yuuko kanoe",
+            "colorBg": "#b91c1c",
+            "movie": "Tasogare Otome"
+        },
+        {
+            "ID": 840,
+            "name": "Juliet persia",
+            "colorBg": "#47a3e9",
+            "movie": "Kishuku Gakkou No Juliet"
+        },
+        {
+            "ID": 841,
+            "name": "Ichigo",
+            "colorBg": "#f7922f",
+            "movie": "Bleach"
+        },
+        {
+            "ID": 842,
+            "name": "Kambe daisuke",
+            "colorBg": "#ac4639",
+            "movie": "Fugou Keiji Balance Unlimited"
+        },
+        {
+            "ID": 843,
+            "name": "Ishigami Senku",
+            "colorBg": "#30b05d",
+            "movie": "Dr Stone"
+        },
+        {
+            "ID": 844,
+            "name": "Tomie",
+            "colorBg": "#5e4fd0",
+            "movie": "Junji Ito Manga"
+        },
+        {
+            "ID": 845,
+            "name": "Nasa",
+            "colorBg": "#48cbb7",
+            "movie": "Tonikaku Kawaii"
+        },
+        {
+            "ID": 846,
+            "name": "Tsukasa",
+            "colorBg": "#924bfd",
+            "movie": "Tonikaku Kawaii"
+        },
+        {
+            "ID": 847,
+            "name": "Misono alicein",
+            "colorBg": "#791da0",
+            "movie": "Servamp"
+        },
+        {
+            "ID": 848,
+            "name": "Shiki",
+            "colorBg": "#d92d25",
+            "movie": "Edens Zero"
+        },
+        {
+            "ID": 849,
+            "name": "Sawada",
+            "colorBg": "#f24917",
+            "movie": "Reborn"
+        },
+        {
+            "ID": 850,
+            "name": "Yamauchi sakura",
+            "colorBg": "#64608a",
+            "movie": "I Want To Eat Your Pancreas"
+        },
+        {
+            "ID": 851,
+            "name": "Gintoki",
+            "colorBg": "#6984b7",
+            "movie": "Gintama"
+        },
+        {
+            "ID": 852,
+            "name": "Ai ohto",
+            "colorBg": "#498ce0",
+            "movie": "Wonder Egg Priority"
+        },
+        {
+            "ID": 853,
+            "name": "Albedo",
+            "colorBg": "#5d598f",
+            "movie": "Overlord"
+        },
+        {
+            "ID": 854,
+            "name": "Ainz ooal-gown",
+            "colorBg": "#9463bf",
+            "movie": "Overlord"
+        },
+        {
+            "ID": 855,
+            "name": "Ruby rose",
+            "colorBg": "#1f1c25",
+            "movie": "Rwby"
+        },
+        {
+            "ID": 856,
+            "name": "Inuyasha",
+            "colorBg": "#b33232",
+            "movie": "Inuyasha"
+        },
+        {
+            "ID": 857,
+            "name": "Naraku",
+            "colorBg": "#9a739c",
+            "movie": "Inuyasha"
+        },
+        {
+            "ID": 858,
+            "name": "Sesshoumaru",
+            "colorBg": "#d93931",
+            "movie": "Inuyasha"
+        },
+        {
+            "ID": 859,
+            "name": "Sistine fibel",
+            "colorBg": "#7066a4",
+            "movie": "Akashic Records"
+        },
+        {
+            "ID": 860,
+            "name": "Syalis",
+            "colorBg": "#ae9bc9",
+            "movie": "Sleepy Princess"
+        },
+        {
+            "ID": 861,
+            "name": "Rei ayanami",
+            "colorBg": "#8184c0",
+            "movie": "Evangelion"
+        },
+        {
+            "ID": 862,
+            "name": "Asuka",
+            "colorBg": "#f74545",
+            "movie": "Evangelion"
+        },
+        {
+            "ID": 863,
+            "name": "Shigeo kageyama",
+            "colorBg": "#56377a",
+            "movie": "Mob Psycho 100"
+        },
+        {
+            "ID": 864,
+            "name": "Elaina",
+            "colorBg": "#9e80af",
+            "movie": "The Journey Of Elaina"
+        },
+        {
+            "ID": 865,
+            "name": "Elaina",
+            "colorBg": "#49a8e4",
+            "movie": "The Journey Of Elaina"
+        },
+        {
+            "ID": 866,
+            "name": "Mirai",
+            "colorBg": "#e08e7c",
+            "movie": "Kyoukai No Kanata"
+        },
+        {
+            "ID": 867,
+            "name": "Hiroomi",
+            "colorBg": "#8ca5d6",
+            "movie": "Kyoukai No Kanata"
+        },
+        {
+            "ID": 868,
+            "name": "Umaru",
+            "colorBg": "#ee8c44",
+            "movie": "Himouto Umaru Chan"
+        },
+        {
+            "ID": 869,
+            "name": "Violet evergarden",
+            "colorBg": "#71a7d4",
+            "movie": "Violet Evergarden"
+        },
+        {
+            "ID": 870,
+            "name": "Izumi sagiri",
+            "colorBg": "#4eadd0",
+            "movie": "Eromanga Sensei"
+        },
+        {
+            "ID": 871,
+            "name": "Sagiri",
+            "colorBg": "#32d3be",
+            "movie": "Eromanga Sensei"
+        },
+        {
+            "ID": 872,
+            "name": "Hestia",
+            "colorBg": "#70a8e1",
+            "movie": "Danmachi"
+        },
+        {
+            "ID": 873,
+            "name": "Anos Voldigoad",
+            "colorBg": "#57668b",
+            "movie": "Maou Gakuin"
+        },
+        {
+            "ID": 874,
+            "name": "Shin",
+            "colorBg": "#de4646",
+            "movie": "Shin"
+        },
+        {
+            "ID": 875,
+            "name": "Usagi tsukino",
+            "colorBg": "#6fb6e8",
+            "movie": "Sailor Moon"
+        },
+        {
+            "ID": 876,
+            "name": "Jinmori",
+            "colorBg": "#db432a",
+            "movie": "God Of High School"
+        },
+        {
+            "ID": 877,
+            "name": "Uzaki",
+            "colorBg": "#5b7eae",
+            "movie": "Uzaki Chan"
+        },
+        {
+            "ID": 878,
+            "name": "Chaheain",
+            "colorBg": "#581f27",
+            "movie": "Top Strongest"
+        },
+        {
+            "ID": 879,
+            "name": "Loremaster",
+            "colorBg": "#cd3333",
+            "movie": "Helltaker"
+        },
+        {
+            "ID": 880,
+            "name": "Hajime Nagumo",
+            "colorBg": "#d53535",
+            "movie": "Arifureta"
+        },
+        {
+            "ID": 881,
+            "name": "Emma",
+            "colorBg": "#fb9245",
+            "movie": "The Promised Neverland"
+        },
+        {
+            "ID": 882,
+            "name": "Sayu ogiwara",
+            "colorBg": "#bea581",
+            "movie": "Higehiro"
+        }
+    ]
+}

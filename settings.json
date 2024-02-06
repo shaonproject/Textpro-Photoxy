@@ -1,0 +1,18 @@
+{
+  "language": "en",
+  "apikey": [
+    "DVB",
+    "Tdunguwu",
+    "RIP05",
+    "HAOPROCODER",
+    "SEN"
+  ],
+  "dont-load-modules": [
+    "chatroomapi.js",
+    "ghi.js",
+    "tinhdiem.js",
+    "bannerdvfb"
+  ],
+  "fb_access_token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+  "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "tools-fb",
+  "version": "1.0.7",
+  "description": "Download The Video And Find The Facebook Uid Using The Profile Link",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node test"
+  },
+  "keywords": [
+    "tools",
+    "fb",
+    "facebook",
+    "tool-facebook"
+  ],
+  "author": "Sam",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "qs": "^6.11.0"
+  },
+  "dependencies": {
+    "tinyurl": "^1.1.7"
+  }
+}
