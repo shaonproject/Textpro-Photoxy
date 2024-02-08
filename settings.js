@@ -17,7 +17,7 @@
 //_______________________ ┏  Setting  ┓ _______________________\\
 
 // Name Creator
-creator = 'Mohammad Nayan'
+creator = 'Shaon Ahmed'
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
@@ -39,7 +39,7 @@ loghandler = {
     error: {
         status: false,
         code: 503,
-        message: '[!] Service Unavaible, Contact Owner : http://www.facebook.com/100000959749712',
+        message: '[!] Service Unavaible, Contact Owner : http://www.facebook.com/100090879572769',
         maintanied_by: `${creator}`
     },
     noturl: {
