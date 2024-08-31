@@ -51,6 +51,12 @@ app.use(function(req, res, next) {
 app.use(function (req, res, next) {
 	next(createError(404))
   })
+app.use(function (req, res, next) {
+	next(createdoes(does))
+  })
+app.use(function (req, res, next) {
+	next(createhome(home))
+  })
 
 app.use(function (err, req, res, next) {
 	
