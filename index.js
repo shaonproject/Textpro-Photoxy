@@ -55,7 +55,13 @@ app.use(function (err, req, res, next) {
 	
 	res.sendFile(__path + '/view/404.html')
 })
+app.get('/', (req, res) => {
+    res.sendFile(__path + '/view/home.html')
+})
 
+app.get('/docs', (req, res) => {
+    res.sendFile(__path + '/view/docs.html')
+})
 app.listen(PORT, () => {
     console.log(`
 	██████╗ ███████╗███████╗████████╗ █████╗ ██████╗ ██╗
